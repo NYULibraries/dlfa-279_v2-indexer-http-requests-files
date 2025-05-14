@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Nicole Greenhouse in compliance with DACS and Tamiment Required Elements for Archival Description</field>
+    <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
+    <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
+    <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="corpname_ssm">People&#39;s World</field>
+    <field name="corpname_teim">People&#39;s World</field>
+    <field name="creator_sim">People&#39;s World</field>
+    <field name="creator_ssm">People&#39;s World</field>
+    <field name="creator_teim">People&#39;s World</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">People&#39;s World Archived Website</field>
+    <field name="dao_teim">People&#39;s World Archived Website</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">web_arc_003</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">People&#39;s World Archived Website</field>
+    <field name="id">web_arc_003aspace_ref1471</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="name_sim">People&#39;s World</field>
+    <field name="name_teim">People&#39;s World</field>
+    <field name="ref_ssi">aspace_ref1471</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="scopecontent_teim">People&#39;s World, established online in 2009, is a national news website that reports on workers&#39; rights, peace, equality, social and economic justice, democracy, civil liberties, women&#39;s rights, protection of the environment, and more. The website is affiliated with the Community Party USA and descended from the Daily Worker, the Communist Party&#39;s newspaper from 1924-1991. The website publishes articles and opinion pieces. The Spanish language edition of the website is called Mundo Popular.</field>
+    <field name="series_si">People&#39;s World Archived Website</field>
+    <field name="sort_ii">233</field>
+    <field name="subject_sim">Communism -- Periodicals.</field>
+    <field name="subject_ssm">Communism -- Periodicals.</field>
+    <field name="subject_teim">Communism -- Periodicals.</field>
+    <field name="subject_teim">Communism -- Periodicals.</field>
+    <field name="title_ssm">People&#39;s world</field>
+    <field name="title_teim">People&#39;s world</field>
+    <field name="unitdate_ssm">Aug 13, 2010- ongoing</field>
+    <field name="unitdate_teim">Aug 13, 2010- ongoing</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/382081</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/382081</field>
+    <field name="unittitle_ssm">People&#39;s World Archived Website</field>
+    <field name="unittitle_teim">People&#39;s World Archived Website</field>
+  </doc>
+</add>
