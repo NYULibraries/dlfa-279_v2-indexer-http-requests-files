@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;The Forest Leaf,&#34; published for the benefit of the festival in aid of the soldiers&#39; orphans; Flatbush, L. I.</field>
+    <field name="id">ms201_erasmus_hallaspace_b38eb84b8417842af49ab0ab2a19b2e9</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-6a, Folder: &#34;The Forest Leaf&#34;</field>
+    <field name="location_ssm">Offsite-Box: RC-6a, Folder: &#34;The Forest Leaf&#34;</field>
+    <field name="parent_ssi">aspace_0af15135397bc1078783b979e259a022</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_0af15135397bc1078783b979e259a022</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Forest Leaf</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Forest Leaf</field>
+    <field name="ref_ssi">aspace_b38eb84b8417842af49ab0ab2a19b2e9</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Two-page newspaper to muster support for this fundraising affair. Includes two legends of old Flatbush, &#34;The Dominie&#39;s Ride&#34; and &#34;Legend of Pope&#39;s Lane.&#34; The latter was obviously the source for John J. Snyder&#39;s tale of Fiddler Joe in Tales of Old Flatbush (1945).</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Forest Leaf &gt;&gt; &#34;The Forest Leaf,&#34; published for the benefit of the festival in aid of the soldiers&#39; orphans; Flatbush, L. I.</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Forest Leaf</field>
+    <field name="sort_ii">645</field>
+    <field name="unitdate_ssm">1865 July 6</field>
+    <field name="unitdate_teim">1865 July 6</field>
+    <field name="unittitle_ssm">&#34;The Forest Leaf,&#34; published for the benefit of the festival in aid of the soldiers&#39; orphans; Flatbush, L. I.</field>
+    <field name="unittitle_teim">&#34;The Forest Leaf,&#34; published for the benefit of the festival in aid of the soldiers&#39; orphans; Flatbush, L. I.</field>
+  </doc>
+</add>

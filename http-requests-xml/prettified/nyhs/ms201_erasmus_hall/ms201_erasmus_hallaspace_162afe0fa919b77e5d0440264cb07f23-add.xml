@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Letter to Marjorie Weirich</field>
+    <field name="id">ms201_erasmus_hallaspace_162afe0fa919b77e5d0440264cb07f23</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-1, Folder: Autographs</field>
+    <field name="location_ssm">Offsite-Box: RC-1, Folder: Autographs</field>
+    <field name="parent_ssi">aspace_3fb72816be4ad0559c453db266e827fe</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_3fb72816be4ad0559c453db266e827fe</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Compton-Mackenzie, Nell (English actress)</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Compton-Mackenzie, Nell (English actress)</field>
+    <field name="ref_ssi">aspace_162afe0fa919b77e5d0440264cb07f23</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Holograph, 3 pg. letter to Miss Marjorie Weirich, dated &#34;Maxine Elliotts Theatre, Jan. 26th, &#39;17,&#34; in which she thanks Miss Weirich for complimenting her performance in &#34;Great Catherine.&#34; She also speaks of her eldest brother, Compton Mackenzie, the famous English author, and recommends some of his books.</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Compton-Mackenzie, Nell (English actress) &gt;&gt; Letter to Marjorie Weirich</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Compton-Mackenzie, Nell (English actress)</field>
+    <field name="sort_ii">106</field>
+    <field name="unitdate_ssm">1917 January 26</field>
+    <field name="unitdate_teim">1917 January 26</field>
+    <field name="unittitle_ssm">Letter to Marjorie Weirich</field>
+    <field name="unittitle_teim">Letter to Marjorie Weirich</field>
+  </doc>
+</add>

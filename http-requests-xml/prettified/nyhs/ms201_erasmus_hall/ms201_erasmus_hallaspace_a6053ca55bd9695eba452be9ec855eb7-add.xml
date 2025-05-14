@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">[Correspondence relating to the transfer of Flatbush District School No. 1 library to Erasmus Hall]</field>
+    <field name="id">ms201_erasmus_hallaspace_a6053ca55bd9695eba452be9ec855eb7</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-5a, Folder: EHHS Library—Museum</field>
+    <field name="location_ssm">Offsite-Box: RC-5a, Folder: EHHS Library—Museum</field>
+    <field name="parent_ssi">aspace_1576b113602e5113f3ab949da7159f54</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_1576b113602e5113f3ab949da7159f54</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Erasmus Hall High School—Library—Museum</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Erasmus Hall High School—Library—Museum</field>
+    <field name="ref_ssi">aspace_a6053ca55bd9695eba452be9ec855eb7</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">The library of the old public school of the town of Flatbush (known as School District No. 1, Town of Flatbush, Kings Co.) was, by vote of the trustees of the school district, transferred in 1897 to Erasmus Hall High School, where it still reposes today in the museum of the school&#39;s library. Correspondence between Walter B. Gunnison, EHHS principal, and John Z. Lott, trustee of the school district, relating to the transfer.</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Erasmus Hall High School—Library—Museum &gt;&gt; [Correspondence relating to the transfer of Flatbush District School No. 1 library to Erasmus Hall]</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Erasmus Hall High School—Library—Museum</field>
+    <field name="sort_ii">437</field>
+    <field name="unitdate_inclusive_teim">[1897]</field>
+    <field name="unitdate_ssm">Inclusive, [1897]</field>
+    <field name="unittitle_ssm">[Correspondence relating to the transfer of Flatbush District School No. 1 library to Erasmus Hall]</field>
+    <field name="unittitle_teim">[Correspondence relating to the transfer of Flatbush District School No. 1 library to Erasmus Hall]</field>
+  </doc>
+</add>

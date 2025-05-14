@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Rick Hunter (2003); Joseph Ditta (2020, 2022)</field>
+    <field name="collection_sim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_ssm">PR 104</field>
+    <field name="collection_unitid_teim">PR 104</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">pr104_theatrical_portrait_collection</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Theatre (small)</field>
+    <field name="id">pr104_theatrical_portrait_collectionaspace_6e005445f5fa01fb6c9c8ddf2491222c</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 44</field>
+    <field name="location_ssm">Offsite-Box: 44</field>
+    <field name="parent_ssi">aspace_6665db81c730cd9b83340c3add4fadce</field>
+    <field name="parent_ssm">aspace_c6f2ecc414d05d579688b6795c08aa32</field>
+    <field name="parent_ssm">aspace_6665db81c730cd9b83340c3add4fadce</field>
+    <field name="parent_unittitles_ssm">Series IV. Productions</field>
+    <field name="parent_unittitles_ssm">Subseries IV.A. Productions (small format)</field>
+    <field name="parent_unittitles_teim">Series IV. Productions</field>
+    <field name="parent_unittitles_teim">Subseries IV.A. Productions (small format)</field>
+    <field name="ref_ssi">aspace_6e005445f5fa01fb6c9c8ddf2491222c</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">&#34;Geisha,&#34; 1907
+
+&#34;Genevieve de Brabant,&#34; undated
+
+&#34;The Highest Bidder,&#34; undated
+ 
+&#34;King John,&#34; undated
+ 
+&#34;Living Art Studies,&#34; 1901
+ 
+&#34;Miss Multon,&#34; 1876
+ 
+&#34;Our Boarding House,&#34; 1877
+ 
+&#34;Pique,&#34; 1875–76
+ 
+&#34;The Private Secretary,&#34; 1885
+ 
+&#34;Romeo and Juliet,&#34; undated
+ 
+&#34;Sweet Lavender,&#34; 1888
+ 
+&#34;Trilby,&#34; 1895
+ 
+&#34;Uncle Tom&#39;s Cabin,&#34; undated
+ 
+&#34;Wanderer,&#34; 1917</field>
+    <field name="series_si">Series IV. Productions &gt;&gt; Subseries IV.A. Productions (small format) &gt;&gt; Theatre (small)</field>
+    <field name="series_sim">Series IV. Productions</field>
+    <field name="series_sim">Subseries IV.A. Productions (small format)</field>
+    <field name="sort_ii">98</field>
+    <field name="unitdate_inclusive_teim">1875-1917, undated</field>
+    <field name="unitdate_ssm">Inclusive, 1875-1917, undated</field>
+    <field name="unittitle_ssm">Theatre (small)</field>
+    <field name="unittitle_teim">Theatre (small)</field>
+  </doc>
+</add>

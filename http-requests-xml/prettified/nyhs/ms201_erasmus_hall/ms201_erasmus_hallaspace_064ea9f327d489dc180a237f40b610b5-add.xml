@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;Report of Committee on Application from Jacob Lefferts and others for an Incorporation by the Style of the Trustees of Erasmus Hall, King&#39;s County&#34;</field>
+    <field name="id">ms201_erasmus_hallaspace_064ea9f327d489dc180a237f40b610b5</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-10b, frame: Erasmus Hall Academy—Regents Grant</field>
+    <field name="location_ssm">Offsite-Box: RC-10b, frame: Erasmus Hall Academy—Regents Grant</field>
+    <field name="parent_ssi">aspace_02dd449b2f55c6f37f60e17935f478e8</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_02dd449b2f55c6f37f60e17935f478e8</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Erasmus Hall Academy—Regents Grant</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Erasmus Hall Academy—Regents Grant</field>
+    <field name="ref_ssi">aspace_064ea9f327d489dc180a237f40b610b5</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">The one-page report recommends accepting the request that &#34;John VanDerBilt and the eighteen other persons for that Purpose nominated in the said Instrument may be incorporated by the name and Style of The Trustees of Erasmus Hall in Kings County. . . .&#34;
+
+
+
+The 9 x 13&#34; document is signed by John Jay, first Chief Justice of the U.S.; Judge Egbert Benson, first president of the N. Y. Historical Society; and Rev. Mr. William Linn.
+
+
+
+Under glass in a 14 x 20&#34; frame. Presented to Erasmus Hall High School by Judge Russell Benedict (1859–1936), who resided at 104 Buckingham Road, Flatbush. Judge Benedict was a Justice of the Supreme Court of N.Y. (2nd Judicial Dist.), 1911–1925. (See Who&#39;s Who in America, 1930s editions.)</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Erasmus Hall Academy—Regents Grant &gt;&gt; &#34;Report of Committee on Application from Jacob Lefferts and others for an Incorporation by the Style of the Trustees of Erasmus Hall, King&#39;s County&#34;</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Erasmus Hall Academy—Regents Grant</field>
+    <field name="sort_ii">227</field>
+    <field name="unitdate_ssm">1787 August 24</field>
+    <field name="unitdate_teim">1787 August 24</field>
+    <field name="unittitle_ssm">&#34;Report of Committee on Application from Jacob Lefferts and others for an Incorporation by the Style of the Trustees of Erasmus Hall, King&#39;s County&#34;</field>
+    <field name="unittitle_teim">&#34;Report of Committee on Application from Jacob Lefferts and others for an Incorporation by the Style of the Trustees of Erasmus Hall, King&#39;s County&#34;</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta</field>
+    <field name="collection_sim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
+    <field name="collection_ssm">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
+    <field name="collection_teim">David G. and Karen D. Chapman collection of photographs of &#34;Famous People of the Old West&#34;</field>
+    <field name="collection_unitid_ssm">PR 375</field>
+    <field name="collection_unitid_teim">PR 375</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">pr375_chapman_old_west</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">C.S. Fly</field>
+    <field name="id">pr375_chapman_old_westaspace_1643e3d66bb6f400ec0c4e26aa098c62</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">item: 25</field>
+    <field name="location_ssm">item: 25</field>
+    <field name="ref_ssi">aspace_1643e3d66bb6f400ec0c4e26aa098c62</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Camillus &#34;Buck&#34; Sydney Fly (1849–1901).
+
+Carte-de-visite, 2 &amp; 3/8&#34; (W) x 4 &amp; 1/16&#34; (L).
+
+Verso advertisement for &#34;Melander, Photographer / 208 Ohio St., Cor. Clark, CHICAGO.&#34;</field>
+    <field name="series_si">C.S. Fly</field>
+    <field name="sort_ii">25</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="unittitle_ssm">C.S. Fly</field>
+    <field name="unittitle_teim">C.S. Fly</field>
+  </doc>
+</add>

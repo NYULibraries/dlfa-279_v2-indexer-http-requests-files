@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Michelle D. Novak and N-YHS archival processing staff.</field>
+    <field name="collection_sim">Ketterer and related families papers</field>
+    <field name="collection_ssm">Ketterer and related families papers</field>
+    <field name="collection_teim">Ketterer and related families papers</field>
+    <field name="collection_unitid_ssm">MS 3213</field>
+    <field name="collection_unitid_teim">MS 3213</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms3213_ketterer</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Family cabinet card album</field>
+    <field name="id">ms3213_kettereraspace_b9c717afc78a58e078ee9ae33a7c6d93</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 2, enclosure: 2</field>
+    <field name="location_ssm">Offsite-Box: 2, enclosure: 2</field>
+    <field name="parent_ssi">aspace_a729cf23f6a54d3d2fc6dab202cef440</field>
+    <field name="parent_ssm">aspace_a729cf23f6a54d3d2fc6dab202cef440</field>
+    <field name="parent_unittitles_ssm">Photographs and ephemera</field>
+    <field name="parent_unittitles_teim">Photographs and ephemera</field>
+    <field name="ref_ssi">aspace_b9c717afc78a58e078ee9ae33a7c6d93</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Note: Cabinet card album pages are not numbered. The page numbers [in brackets] below reflect the order of the photos as they appear in the album.
+
+
+
+[01] &#34;Letitia Thompson King&#34;
+
+[02] &#34;Letitia Haslett King (one year)&#34;
+
+[03] &#34;Letitia Haslett King (three years)&#34;
+
+[04] &#34;Letitia Thompson King&#34;
+
+[05] &#34;Letitia Haslett King 1898&#34;
+
+[06] &#34;Letitia Haslett King (seven years)&#34;
+
+[07] &#34;William (standing), John &amp; Lizzie Thompson, Uncle William&#39;s [Thompson (1815– )] Children&#34;
+
+[08] [empty page]
+
+[09] &#34;Percival Charles Ketterer and Alice Miller&#34; [Image shows young children in costumes of French aristocracy.]
+
+[10] &#34;Lizzie Taylor Thompson&#34; [Elizabeth Mary Taylor (1860– )]
+
+[11] &#34;David Thompson&#34; [(1855?– )]
+
+[12] &#34;Catherine Marshall, Mrs. William Thompson&#34; [(1851– )]
+
+[13] &#34;Uncle William Thompson&#34; [Rev., (1851– )]
+
+[14] &#34;Uncle James King&#34;
+
+[15] &#34;Hannah Houseman (Mrs. James King)&#34;
+
+[16] &#34;Eliza Thompson Irwin&#34;
+
+[17] &#34;Aunt Bella&#34; [Isabella Thompson (1867– )]
+
+[18] &#34;Uncle James Thompson&#34;
+
+[19] &#34;S. Thompson, May 8th [18]94. Uncle Robert&#39;s daughter Sarah.&#34; [Sarah Elizabeth Thompson (1875– )]
+
+[20] &#34;Letitia Haslett King, 1889&#34;
+
+[21] &#34;Emily Charles&#34;
+
+[22] &#34;Letitia Haslett King (twelve years)&#34;
+
+[23] &#34;Dr. Joseph R. Kerr. Fourth Pres. Church [1893]&#34;
+
+[24] [Charles Percival Ketterer (1847–1915)]
+
+[24a] (loose photo) [Charles Percival Ketterer (1847–1915)]
+
+[25] [Prudence Salome (Kobler) Ketterer (1848–1943)]
+
+[26] &#34;Kathleen &amp; Fannie&#34;
+
+[26a] (loose photo) [Unidentified family and horse-drawn trap. Likely Rev. William Thompson and family, Kinglassie, Fife, Scotland. Woman (Catherine Marshall), boy (John M.), and girl (Frances E.) in horse-drawn trap/wagon with older boy (William Jr.) standing in foreground. Woman servant (possibly a nanny) stands at left, male servant (possibly a groom) holds the reins. Man (Rev. Thompson) stands in the doorway.]
+
+[27] &#34;Fannie Cuthbert Guthrie (two &amp; a half years)&#34;
+
+[28] [Unidentified young man]
+
+[29] &#34;Uncle John Thompson (seated) and friends&#34;
+
+[30] [Unidentified group portrait]
+
+[31] &#34;William Thompson—with arms folded—Uncle William&#39;s oldest boy&#34;
+
+[32] &#34;Great-Grandpa &amp; Grandma J. Thompson &amp; Uncle Harry&#34;
+
+[32a] (loose photo) &#34;Letitia Thompson King&#34;
+
+[32b] (loose photo) [inscription] &#34;Letitia— with love David 14/6/[18]88&#34;
+
+[32c] (loose photo) &#34;[?] King&#34;
+
+[32d] (loose photo) &#34;Great Grandpa Thompson&#34;
+
+[32e] (loose photo) &#34;Bella Thompson Guthrie&#34;
+
+[32f] (loose photo) [Unidentified seated woman]
+
+[32g] (loose photo) [Unidentified seated man]
+
+[32h] (loose photo) [Unidentified man in early automobile/horseless carriage on dirt road, circa 1900. Possibly a Thompson family member.]</field>
+    <field name="series_si">Photographs and ephemera &gt;&gt; Family cabinet card album</field>
+    <field name="series_sim">Photographs and ephemera</field>
+    <field name="sort_ii">44</field>
+    <field name="unitdate_inclusive_teim">circa 1870s-1900s</field>
+    <field name="unitdate_ssm">Inclusive, circa 1870s-1900s</field>
+    <field name="unittitle_ssm">Family cabinet card album</field>
+    <field name="unittitle_teim">Family cabinet card album</field>
+  </doc>
+</add>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (January 2024)</field>
+    <field name="collection_sim">George Champion papers</field>
+    <field name="collection_ssm">George Champion papers</field>
+    <field name="collection_teim">George Champion papers</field>
+    <field name="collection_unitid_ssm">MS 3241</field>
+    <field name="collection_unitid_teim">MS 3241</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms3241_champion_george</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Photographs</field>
+    <field name="id">ms3241_champion_georgeaspace_85dd2343c05db8adb5ae076bdb620d1d</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 2, Folder: 10</field>
+    <field name="location_ssm">Offsite-Box: 2, Folder: 10</field>
+    <field name="ref_ssi">aspace_85dd2343c05db8adb5ae076bdb620d1d</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">•	George Champion portrait (September 1950) [2 copies]
+
+
+
+•	&#34;Arrival at Augusta, Georgia from plane . . .&#34; (1957 Spring).
+
+
+
+•	&#34;S.S. George Champion launched 3/22/58&#34; (1958 March 22).
+
+
+
+•	Rear Admiral J. D. Bulkeley portrait (1963 Dec. 10).
+
+
+
+•	George Champion with Harry S. Truman and others (1964 Spring).
+
+
+
+•	George Champion at New York Stock Exchange (1965 March 16).
+
+
+
+•	George Champion with others (1966 Dec.).
+
+
+
+•	George Champion at 1967 Annual CMB Golf Tournament (1967 Aug. 8).
+
+
+
+•	George Champion receiving 1967 &#34;Man-In-Management&#34; Award (1968 Jan. 16).
+
+
+
+•	George Champion receiving First Class Order of the Sacred Treasure from Government of Japan (1969 Oct. 7). [Seven images. See documentation (Box 1, Folder 4) and insignia (Box 4, Enclosure 1).]
+
+
+
+•	George Champion at &#34;Tribute of a Grateful Nation&#34; ceremony with President and Mrs. Nixon, Mamie Eisenhower, and Herbert Brownell (1969 Oct. 14).</field>
+    <field name="series_si">&lt;strong&gt;Photographs&lt;/strong&gt;</field>
+    <field name="sort_ii">37</field>
+    <field name="unitdate_inclusive_teim">1950-1969</field>
+    <field name="unitdate_ssm">Inclusive, 1950-1969</field>
+    <field name="unittitle_ssm">&lt;strong&gt;Photographs&lt;/strong&gt;</field>
+    <field name="unittitle_teim">Photographs</field>
+  </doc>
+</add>

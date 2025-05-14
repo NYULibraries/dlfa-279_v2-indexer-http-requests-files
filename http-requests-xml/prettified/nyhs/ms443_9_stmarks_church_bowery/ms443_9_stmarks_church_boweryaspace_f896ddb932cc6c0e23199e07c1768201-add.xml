@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Larry Weimer</field>
+    <field name="collection_sim">St. Mark&#39;s Church in-the-Bowery records</field>
+    <field name="collection_ssm">St. Mark&#39;s Church in-the-Bowery records</field>
+    <field name="collection_teim">St. Mark&#39;s Church in-the-Bowery records</field>
+    <field name="collection_unitid_ssm">MS 443.9</field>
+    <field name="collection_unitid_teim">MS 443.9</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms443_9_stmarks_church_bowery</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Files: St. Mark&#39;s historical notes</field>
+    <field name="id">ms443_9_stmarks_church_boweryaspace_f896ddb932cc6c0e23199e07c1768201</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 30</field>
+    <field name="location_ssm">Offsite-Box: 30</field>
+    <field name="parent_ssi">aspace_c2c95c9b7ce65ef14059b2d3a1af8252</field>
+    <field name="parent_ssm">aspace_eca7238d9486aa35b68040fa01c0ed8e</field>
+    <field name="parent_ssm">aspace_c2c95c9b7ce65ef14059b2d3a1af8252</field>
+    <field name="parent_unittitles_ssm">Series IV. Buildings Renovation and Restoration</field>
+    <field name="parent_unittitles_ssm">Subseries IV.A. St. Mark&amp;#39;s Church Preservation Youth Project and Other Restoration Records</field>
+    <field name="parent_unittitles_teim">Series IV. Buildings Renovation and Restoration</field>
+    <field name="parent_unittitles_teim">Subseries IV.A. St. Mark&amp;#39;s Church Preservation Youth Project and Other Restoration Records</field>
+    <field name="ref_ssi">aspace_f896ddb932cc6c0e23199e07c1768201</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Includes binder of photocopies of correspondence and other documents re: &#34;The Netherlands and St. Mark&#39;s&#34; (1981-82) and a binder of &#34;St. Mark&#39;s History&#34; with clippings, articles, historical notes, etc.</field>
+    <field name="series_si">Series IV. Buildings Renovation and Restoration &gt;&gt; Subseries IV.A. St. Mark&#39;s Church Preservation Youth Project and Other Restoration Records &gt;&gt; Files: St. Mark&#39;s historical notes</field>
+    <field name="series_sim">Series IV. Buildings Renovation and Restoration</field>
+    <field name="series_sim">Subseries IV.A. St. Mark&amp;#39;s Church Preservation Youth Project and Other Restoration Records</field>
+    <field name="sort_ii">54</field>
+    <field name="unitdate_inclusive_teim">1990s-2006</field>
+    <field name="unitdate_ssm">Inclusive, 1990s-2006</field>
+    <field name="unittitle_ssm">Files: St. Mark&#39;s historical notes</field>
+    <field name="unittitle_teim">Files: St. Mark&#39;s historical notes</field>
+  </doc>
+</add>

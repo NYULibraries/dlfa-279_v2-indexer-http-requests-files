@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Susan Kriete</field>
+    <field name="collection_sim">Richard L. Gilbert Advertising Collection</field>
+    <field name="collection_ssm">Richard L. Gilbert Advertising Collection</field>
+    <field name="collection_teim">Richard L. Gilbert Advertising Collection</field>
+    <field name="collection_unitid_ssm">PR 309</field>
+    <field name="collection_unitid_teim">PR 309</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">pr309_richard_gilbert_advertising</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;Marching Up Madison Avenue,&#34; by Richard L. Gilbert</field>
+    <field name="id">pr309_richard_gilbert_advertisingaspace_ref26_uqk</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 1, Folder: 9</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 9</field>
+    <field name="ref_ssi">aspace_ref26_uqk</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="series_si">&#34;Marching Up Madison Avenue,&#34; by Richard L. Gilbert</field>
+    <field name="sort_ii">17</field>
+    <field name="unitdate_ssm">2008</field>
+    <field name="unitdate_teim">2008</field>
+    <field name="unittitle_ssm">&#34;Marching Up Madison Avenue,&#34; by Richard L. Gilbert</field>
+    <field name="unittitle_teim">&#34;Marching Up Madison Avenue,&#34; by Richard L. Gilbert</field>
+  </doc>
+</add>

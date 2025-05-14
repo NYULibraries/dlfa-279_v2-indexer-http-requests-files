@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Allen Thomas and Samantha Brown</field>
+    <field name="collection_sim">Time Inc. Annex Files</field>
+    <field name="collection_ssm">Time Inc. Annex Files</field>
+    <field name="collection_teim">Time Inc. Annex Files</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 39</field>
+    <field name="collection_unitid_teim">MS 3009-RG 39</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">timeinc_ms3009_rg39</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Time: Advertising: Rediscover America Campaign</field>
+    <field name="id">timeinc_ms3009_rg39aspace_b5b07d19fb26b48afd26429f6e2889d0</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 4040, Folder: 2</field>
+    <field name="location_ssm">Offsite-Box: 4040, Folder: 2</field>
+    <field name="ref_ssi">aspace_b5b07d19fb26b48afd26429f6e2889d0</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Includes audiovisual material.</field>
+    <field name="scopecontent_teim">1 videocassette (VHS) (65 min.) : On container: &#34;Rediscover America: 75th Anniversary of America&#39;s National Parks&#34;</field>
+    <field name="scopecontent_teim">1 audio cassette tapes: On label: &#34;Rediscover America Vol. 1&#34;</field>
+    <field name="scopecontent_teim">1 audio cassette tapes: On label: &#34;Rediscover America Vol. 2&#34;</field>
+    <field name="series_si">&lt;em&gt;Time&lt;/em&gt;: Advertising: Rediscover America Campaign</field>
+    <field name="sort_ii">3651</field>
+    <field name="unitdate_inclusive_teim">1991</field>
+    <field name="unitdate_ssm">Inclusive, 1991</field>
+    <field name="unittitle_ssm">&lt;em&gt;Time&lt;/em&gt;: Advertising: Rediscover America Campaign</field>
+    <field name="unittitle_teim">Time: Advertising: Rediscover America Campaign</field>
+  </doc>
+</add>

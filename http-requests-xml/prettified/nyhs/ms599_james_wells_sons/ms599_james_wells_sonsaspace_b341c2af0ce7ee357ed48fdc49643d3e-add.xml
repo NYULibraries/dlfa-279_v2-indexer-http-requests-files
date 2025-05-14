@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Larry Weimer and Elise Winks</field>
+    <field name="collection_sim">James N. Wells&#39; Sons records</field>
+    <field name="collection_ssm">James N. Wells&#39; Sons records</field>
+    <field name="collection_teim">James N. Wells&#39; Sons records</field>
+    <field name="collection_unitid_ssm">MS 599</field>
+    <field name="collection_unitid_teim">MS 599</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms599_james_wells_sons</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;Map of Lands in the 12th Ward of the City of New York Belonging to the Estate of Cornelius Ray, Dec&#39;d&#34;</field>
+    <field name="id">ms599_james_wells_sonsaspace_b341c2af0ce7ee357ed48fdc49643d3e</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 39</field>
+    <field name="location_ssm">Offsite-Box: 39</field>
+    <field name="ref_ssi">aspace_b341c2af0ce7ee357ed48fdc49643d3e</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Certified copy of an 1834 map, entered into chancery as a partition map in the matter of Robert Ray and Richard Ray vs. John A. King and others, with an 1844 addition covering the area west of 11th Avenue.</field>
+    <field name="series_si">&#34;Map of Lands in the 12th Ward of the City of New York Belonging to the Estate of Cornelius Ray, Dec&#39;d&#34;</field>
+    <field name="sort_ii">41</field>
+    <field name="unitdate_ssm">circa 1844</field>
+    <field name="unitdate_teim">circa 1844</field>
+    <field name="unittitle_ssm">&#34;Map of Lands in the 12th Ward of the City of New York Belonging to the Estate of Cornelius Ray, Dec&#39;d&#34;</field>
+    <field name="unittitle_teim">&#34;Map of Lands in the 12th Ward of the City of New York Belonging to the Estate of Cornelius Ray, Dec&#39;d&#34;</field>
+  </doc>
+</add>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Elise Winks and Larry Weimer</field>
+    <field name="collection_sim">John J. Stephens research notes</field>
+    <field name="collection_ssm">John J. Stephens research notes</field>
+    <field name="collection_teim">John J. Stephens research notes</field>
+    <field name="collection_unitid_ssm">MS 590</field>
+    <field name="collection_unitid_teim">MS 590</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms590_john_stephens_notes</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;Notes on Brooklyn&#34; (index cards, alphabetical by subject)</field>
+    <field name="id">ms590_john_stephens_notesaspace_90df4a588adef8d2b3624a48acde19fd</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 16</field>
+    <field name="location_ssm">Offsite-Box: 16</field>
+    <field name="ref_ssi">aspace_90df4a588adef8d2b3624a48acde19fd</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="series_si">&#34;Notes on Brooklyn&#34; (index cards, alphabetical by subject)</field>
+    <field name="sort_ii">4</field>
+    <field name="unittitle_ssm">&#34;Notes on Brooklyn&#34; (index cards, alphabetical by subject)</field>
+    <field name="unittitle_teim">&#34;Notes on Brooklyn&#34; (index cards, alphabetical by subject)</field>
+  </doc>
+</add>

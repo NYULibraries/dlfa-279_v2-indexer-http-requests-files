@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">true</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="heading_ssm">Zabriskie Family</field>
+    <field name="id">ms201_erasmus_hallaspace_fefed4828bc628d7f661336fb03376c3</field>
+    <field name="level_sim">subseries</field>
+    <field name="parent_ssi">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="ref_ssi">aspace_fefed4828bc628d7f661336fb03376c3</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Miss Louise Garvin Zabriskie apparently gave her collection of family papers to the EHHS Library about 1930, as it was soon before Mary A. Kingsbury&#39;s retirement in 1931. In a letter to Ella Suydam, July 8, 1934 (filed in Mary A. Kingsbury&#39;s folder, Records Case, Drawer 5), Miss Kingsbury wrote: &#34;Did you find the papers that Miss Zabriskie left with us in that nice case? The last I knew of them, Mr. Mullen took the case and said he would take care of it. I do hope the papers are all right for my conscience has accused me many times of not keeping them in the library as she expected us to do. The trouble was that there didn&#39;t seem to be a place to spare even for that small case . . . .&#34;
+
+
+
+The papers are preserved in the Erasmus Hall archives, though not as a unit.</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Zabriskie Family</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="sort_ii">935</field>
+    <field name="unittitle_ssm">Zabriskie Family</field>
+    <field name="unittitle_teim">Zabriskie Family</field>
+  </doc>
+</add>

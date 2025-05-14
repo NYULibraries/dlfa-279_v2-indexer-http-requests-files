@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Sports Review [a student newspaper]</field>
+    <field name="id">ms201_erasmus_hallaspace_b7ad8573d013f43b760be3bd7f5c3bcb</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-9a, Folder: EHHS—Athletics—Publications, etc. folder #1</field>
+    <field name="location_ssm">Offsite-Box: RC-9a, Folder: EHHS—Athletics—Publications, etc. folder #1</field>
+    <field name="parent_ssi">aspace_0f7d3cff1210bf942107ef0e565f7a7d</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_0f7d3cff1210bf942107ef0e565f7a7d</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Sports Review</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Sports Review</field>
+    <field name="ref_ssi">aspace_b7ad8573d013f43b760be3bd7f5c3bcb</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Of the same format as the Dutchman, but with strictly sports-oriented news.
+
+•	v. 1, no. 1 (June 10, 1936)
+
+•	v. 3, no. 1 (June 3, 1938)</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Sports Review &gt;&gt; Sports Review [a student newspaper]</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Sports Review</field>
+    <field name="sort_ii">855</field>
+    <field name="unitdate_inclusive_teim">1936, 1938</field>
+    <field name="unitdate_ssm">Inclusive, 1936, 1938</field>
+    <field name="unittitle_ssm">Sports Review [a student newspaper]</field>
+    <field name="unittitle_teim">Sports Review [a student newspaper]</field>
+  </doc>
+</add>

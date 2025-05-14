@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;Galatea, A Fantastic Play . . .&#34;</field>
+    <field name="id">ms201_erasmus_hallaspace_37700a258bdf8fa6f3e0f19243cae3ec</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-2, Folder: &#34;Galatea&#34; by Eugene W. Harter</field>
+    <field name="location_ssm">Offsite-Box: RC-2, Folder: &#34;Galatea&#34; by Eugene W. Harter</field>
+    <field name="parent_ssi">aspace_85c7aacf2fa8f998bc9f733f5eccf388</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_85c7aacf2fa8f998bc9f733f5eccf388</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Harter, Eugene W. (EHHS teacher, 1896–1934)</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Harter, Eugene W. (EHHS teacher, 1896–1934)</field>
+    <field name="ref_ssi">aspace_37700a258bdf8fa6f3e0f19243cae3ec</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">•	&#34;Galatea, A Fantastic Play in Three Acts with Musical Interruptions; Founded on W. S. Gilbert&#39;s &#39;Pygmalion and Galatea&#39; and furnished with Music and Lyrics&#34; by Eugene W. Harter, n.d.
+
+•	Clippings from Brooklyn Daily Eagle, June 5, 1913 and Oct. 1, 1913, about EHHS production of Galatea.</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Harter, Eugene W. (EHHS teacher, 1896–1934) &gt;&gt; &#34;Galatea, A Fantastic Play . . .&#34;</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Harter, Eugene W. (EHHS teacher, 1896–1934)</field>
+    <field name="sort_ii">669</field>
+    <field name="unitdate_inclusive_teim">1913, undated</field>
+    <field name="unitdate_ssm">Inclusive, 1913, undated</field>
+    <field name="unittitle_ssm">&#34;Galatea, A Fantastic Play . . .&#34;</field>
+    <field name="unittitle_teim">&#34;Galatea, A Fantastic Play . . .&#34;</field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Larry Weimer</field>
+    <field name="collection_sim">Edwin P. Kilroe papers</field>
+    <field name="collection_ssm">Edwin P. Kilroe papers</field>
+    <field name="collection_teim">Edwin P. Kilroe papers</field>
+    <field name="collection_unitid_ssm">MS 3125</field>
+    <field name="collection_unitid_teim">MS 3125</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms3125_edwin_kilroe</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Various</field>
+    <field name="id">ms3125_edwin_kilroeaspace_3d2d5d58f1e7ffd9792768e73bc53726</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 28</field>
+    <field name="location_ssm">Offsite-Box: 28</field>
+    <field name="ref_ssi">aspace_3d2d5d58f1e7ffd9792768e73bc53726</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">This box holds:</field>
+    <field name="scopecontent_teim">* Scrapbook &#34;My Second Voyage. France and the Battlefields, 1919&#34; (2 volumes). Along with various memorabilia/ephemera, the volumes hold some photographs, especially of post-World War I Verdun.</field>
+    <field name="scopecontent_teim">* &#34;Pennsylvania Bar (1915); District Attorney&#39;s Office (1916),&#34; 1912-16 (2 volumes). Original documents tracing Kilroe&#39;s progress at joining the bar and then his early career as Assistant District Attorney under New York County District Attorney Edward Swann.</field>
+    <field name="scopecontent_teim">* Booklet &#34;Charter of Society of Friendly Sons of St. Patrick in New York&#34; (1832)</field>
+    <field name="scopecontent_teim">* Booklet &#34;By-laws of St. Patrick&#39;s Society of Portland&#34; (1860)</field>
+    <field name="scopecontent_teim">* 3 books by John H. Dooley, inscribed: &#34;Good living,&#34; &#34;Verses concerning the American and Irish Republics,&#34; and &#34;Songs of a priest.&#34; (1926)</field>
+    <field name="scopecontent_teim">* Book &#34;God&#39;s little acre&#34; by Erskine Caldwell (1934)</field>
+    <field name="scopecontent_teim">* Book &#34;American armies &amp; battlefields in Europe&#34; (1938)</field>
+    <field name="scopecontent_teim">* Book &#34;Focus&#34; by Arthur Miller (1945)</field>
+    <field name="scopecontent_teim">* Book &#34;Raintree County&#34; by Ross Lockridge (1948)</field>
+    <field name="scopecontent_teim">* Book &#34;The Gilded Hearse&#34; by Charles O. Gorham (1948)</field>
+    <field name="scopecontent_teim">* Book &#34;Delaware &amp; Hudson Canal History&#34; (1950)</field>
+    <field name="series_si">Various</field>
+    <field name="sort_ii">28</field>
+    <field name="unitdate_inclusive_teim">1832-1948</field>
+    <field name="unitdate_ssm">Inclusive, 1832-1948</field>
+    <field name="unittitle_ssm">Various</field>
+    <field name="unittitle_teim">Various</field>
+  </doc>
+</add>

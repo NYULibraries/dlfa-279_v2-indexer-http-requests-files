@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Bill of sale to Garret Martense of Flatbush for &#34;A Negro Wench named Peg&#34;</field>
+    <field name="id">ms201_erasmus_hallaspace_5b07c1bac70c6bf424bcfb72442edd44</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-6a, Folder: Martense Family</field>
+    <field name="location_ssm">Offsite-Box: RC-6a, Folder: Martense Family</field>
+    <field name="parent_ssi">aspace_77f23d038aefb9f9442e8644c77e52fc</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_77f23d038aefb9f9442e8644c77e52fc</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Martense family</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Martense family</field>
+    <field name="ref_ssi">aspace_5b07c1bac70c6bf424bcfb72442edd44</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">7 x 12&#34; document, dated 16 Feb. 1797, in which &#34;we John Blake and James Groenendyke of the town of New Utrecht, County of Kings &amp; state of New York, for and in consideration of the sum of Thirty pounds,&#34; sold to Garret Martense of Flatbush &#34;A Negro Wench named Peg.&#34; Signed by the grantors, and by two witnesses: D. Cortelyou, Rutgert A. Van Brunt.</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Martense family &gt;&gt; Bill of sale to Garret Martense of Flatbush for &#34;A Negro Wench named Peg&#34;</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Martense family</field>
+    <field name="sort_ii">754</field>
+    <field name="unitdate_ssm">1797 February 16</field>
+    <field name="unitdate_teim">1797 February 16</field>
+    <field name="unittitle_ssm">Bill of sale to Garret Martense of Flatbush for &#34;A Negro Wench named Peg&#34;</field>
+    <field name="unittitle_teim">Bill of sale to Garret Martense of Flatbush for &#34;A Negro Wench named Peg&#34;</field>
+  </doc>
+</add>

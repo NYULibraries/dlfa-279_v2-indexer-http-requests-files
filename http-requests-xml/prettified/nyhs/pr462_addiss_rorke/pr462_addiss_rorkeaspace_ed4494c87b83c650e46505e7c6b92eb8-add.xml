@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (August 2023)</field>
+    <field name="collection_sim">Jus Addiss and Hayden Rorke &#34;This is the Army&#34; travel photographs</field>
+    <field name="collection_ssm">Jus Addiss and Hayden Rorke &#34;This is the Army&#34; travel photographs</field>
+    <field name="collection_teim">Jus Addiss and Hayden Rorke &#34;This is the Army&#34; travel photographs</field>
+    <field name="collection_unitid_ssm">PR 462</field>
+    <field name="collection_unitid_teim">PR 462</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">pr462_addiss_rorke</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Addiss and Rorke photographs: Miscellaneous (4 items)</field>
+    <field name="id">pr462_addiss_rorkeaspace_ed4494c87b83c650e46505e7c6b92eb8</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: 1, Folder: 11</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 11</field>
+    <field name="ref_ssi">aspace_ed4494c87b83c650e46505e7c6b92eb8</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">(1) Blank envelope stamped with the return address of &#34;Edward F. Addiss, 100 East 42nd Street, New York 17, N.Y.&#34;
+
+(2) Envelope sent from &#34;E. F. Addiss, 100 East 42nd Street, New York 17, N.Y.,&#34; to &#34;Mrs. Francis J. Addiss, 121 South Street, Jersey City, New Jersey,&#34; postmarked 19 February 1945. Originally held photographs of &#34;Bombay, India,&#34; now in Folder 7.
+
+(3) Envelope that originally held the photographs of &#34;Jerusalem, etc.&#34; and &#34;Egypt and the Holy Land&#34; now in Folders 4 and 5.
+
+(4) Postcard of Mount Fuji, Japan, postmarked 24 April [1973?], mailed to &#34;Mrs. Joseph [Gertrude] Munafo, 530 East 23rd Street, New York, New York 10010,&#34; signed &#34;Bill and Jus.&#34;</field>
+    <field name="series_si">Addiss and Rorke photographs: Miscellaneous (4 items)</field>
+    <field name="sort_ii">11</field>
+    <field name="unittitle_ssm">Addiss and Rorke photographs: Miscellaneous (4 items)</field>
+    <field name="unittitle_teim">Addiss and Rorke photographs: Miscellaneous (4 items)</field>
+  </doc>
+</add>

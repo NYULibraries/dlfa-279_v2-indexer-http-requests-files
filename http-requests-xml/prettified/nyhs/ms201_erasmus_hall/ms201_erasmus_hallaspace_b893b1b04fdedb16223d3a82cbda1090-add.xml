@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Albrecht Dürer&#39;s famous engraved portrait of Desiderius Erasmus, executed 1526</field>
+    <field name="id">ms201_erasmus_hallaspace_b893b1b04fdedb16223d3a82cbda1090</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-7, frame: [Durer]</field>
+    <field name="location_ssm">Offsite-Box: RC-7, frame: [Durer]</field>
+    <field name="parent_ssi">aspace_cf60eff8de5daffd728466808d397525</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_cf60eff8de5daffd728466808d397525</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Erasmus, Desiderius—Portrait</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Erasmus, Desiderius—Portrait</field>
+    <field name="ref_ssi">aspace_b893b1b04fdedb16223d3a82cbda1090</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">This engraving was &#34;pulled&#34; about 1600, according to notation on the matte.
+
+
+
+Engraving about 8 x 10&#34;, framed to 18 x 23&#34;. Gift of Joseph Burger, 1960.</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Erasmus, Desiderius—Portrait &gt;&gt; Albrecht Dürer&#39;s famous engraved portrait of Desiderius Erasmus, executed 1526</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Erasmus, Desiderius—Portrait</field>
+    <field name="sort_ii">165</field>
+    <field name="unitdate_inclusive_teim">circa 1600</field>
+    <field name="unitdate_ssm">Inclusive, circa 1600</field>
+    <field name="unittitle_ssm">Albrecht Dürer&#39;s famous engraved portrait of Desiderius Erasmus, executed 1526</field>
+    <field name="unittitle_teim">Albrecht Dürer&#39;s famous engraved portrait of Desiderius Erasmus, executed 1526</field>
+  </doc>
+</add>

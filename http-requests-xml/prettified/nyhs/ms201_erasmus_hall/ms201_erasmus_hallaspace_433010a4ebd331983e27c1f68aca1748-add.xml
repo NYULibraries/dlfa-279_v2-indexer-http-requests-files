@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta (2021)</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;Erasmus Gets Portrait of Early Headmaster&#34; [copy 1], Sunday News</field>
+    <field name="id">ms201_erasmus_hallaspace_433010a4ebd331983e27c1f68aca1748</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Offsite-Box: RC-1, Folder: Principals of Erasmus Hall Academy (Before 1896)</field>
+    <field name="location_ssm">Offsite-Box: RC-1, Folder: Principals of Erasmus Hall Academy (Before 1896)</field>
+    <field name="parent_ssi">aspace_0fc9a9bae1b85a4ef3af7019bdcac970</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_0fc9a9bae1b85a4ef3af7019bdcac970</field>
+    <field name="parent_unittitles_ssm">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_ssm">Kellogg, Jonathan W. (Erasmus Hall Academy principal, 1823–1833)</field>
+    <field name="parent_unittitles_teim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="parent_unittitles_teim">Kellogg, Jonathan W. (Erasmus Hall Academy principal, 1823–1833)</field>
+    <field name="ref_ssi">aspace_433010a4ebd331983e27c1f68aca1748</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Clipping regarding gift to Erasmus Hall High School of portrait of Kellogg, presented by his great-granddaughter, Charlotte H. Meade. Includes photo of Dr. John F. McNeill with portrait of Kellogg.</field>
+    <field name="series_si">&#34;Archives of Erasmus Hall High School&#34; &gt;&gt; Kellogg, Jonathan W. (Erasmus Hall Academy principal, 1823–1833) &gt;&gt; &#34;Erasmus Gets Portrait of Early Headmaster&#34; [copy 1], &lt;em&gt;Sunday News&lt;/em&gt;</field>
+    <field name="series_sim">&amp;#34;Archives of Erasmus Hall High School&amp;#34;</field>
+    <field name="series_sim">Kellogg, Jonathan W. (Erasmus Hall Academy principal, 1823–1833)</field>
+    <field name="sort_ii">691</field>
+    <field name="unitdate_ssm">1955 November 13</field>
+    <field name="unitdate_teim">1955 November 13</field>
+    <field name="unittitle_ssm">&#34;Erasmus Gets Portrait of Early Headmaster&#34; [copy 1], &lt;em&gt;Sunday News&lt;/em&gt;</field>
+    <field name="unittitle_teim">&#34;Erasmus Gets Portrait of Early Headmaster&#34; [copy 1], Sunday News</field>
+  </doc>
+</add>

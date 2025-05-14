@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Aleksandr Gelfand</field>
+    <field name="collection_sim">Henry R. Luce papers</field>
+    <field name="collection_ssm">Henry R. Luce papers</field>
+    <field name="collection_teim">Henry R. Luce papers</field>
+    <field name="collection_unitid_ssm">MS 3014</field>
+    <field name="collection_unitid_teim">MS 3014</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms3014_henry_luce</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Morlion, Father Felix - HRL&#39;s Speeches and Writings Project (folder 1 of 2)</field>
+    <field name="id">ms3014_henry_luceaspace_ref3962_l9l</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 131, Folder: 4</field>
+    <field name="location_ssm">Box: 131, Folder: 4</field>
+    <field name="parent_ssi">aspace_ref10_dy3</field>
+    <field name="parent_ssm">aspace_ref8_als</field>
+    <field name="parent_ssm">aspace_ref10_dy3</field>
+    <field name="parent_unittitles_ssm">Series V. Subject Name Files</field>
+    <field name="parent_unittitles_ssm">Subseries V.B. Name Files B</field>
+    <field name="parent_unittitles_teim">Series V. Subject Name Files</field>
+    <field name="parent_unittitles_teim">Subseries V.B. Name Files B</field>
+    <field name="ref_ssi">aspace_ref3962_l9l</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Includes a memo dealing with a possible book Morlion was planning to write using HRL&#39;s speeches and writings. Contains the following Luce speeches &#34;Business Enterprise - 20th Century U.S.A.,&#34; &#34;The Promised Land,&#34; &#34;The Public Philosophy and the Spirit of Geneva,&#34; &#34;Imperfect Freedom,&#34; &#34;Journalism and Reponsibility,&#34; &#34;The Rule of Law and the Administration of Justice,&#34; &#34;Challenges to the Church,&#34; &#34;The Title Deeds of Freedom,&#34; and &#34;The Meaning of the Rule of Law to American Foreign Policy.&#34; HRL&#39;s articles include &#34;The Day of Wrath,&#34; &#34;America and Armageddon,&#34; &#34;Holmes Was Wrong,&#34; and &#34;The Character of the Businessman.&#34;</field>
+    <field name="series_si">Series V. Subject Name Files &gt;&gt; Subseries V.B. Name Files B &gt;&gt; Morlion, Father Felix - HRL&#39;s Speeches and Writings Project (folder 1 of 2)</field>
+    <field name="series_sim">Series V. Subject Name Files</field>
+    <field name="series_sim">Subseries V.B. Name Files B</field>
+    <field name="sort_ii">2584</field>
+    <field name="unitdate_ssm">1941-1962</field>
+    <field name="unitdate_teim">1941-1962</field>
+    <field name="unittitle_ssm">Morlion, Father Felix - HRL&#39;s Speeches and Writings Project (folder 1 of 2)</field>
+    <field name="unittitle_teim">Morlion, Father Felix - HRL&#39;s Speeches and Writings Project (folder 1 of 2)</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Emily Wolff and Jenny Gotwals, with ongoing additions</field>
+    <field name="collection_sim">Subject File</field>
+    <field name="collection_ssm">Subject File</field>
+    <field name="collection_teim">Subject File</field>
+    <field name="collection_unitid_ssm">PR 68</field>
+    <field name="collection_unitid_teim">PR 68</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">pr068_subject_file</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">WARS - WORLD WAR I (1 of 3)</field>
+    <field name="id">pr068_subject_fileaspace_ref266_foa</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 30</field>
+    <field name="location_ssm">Box: 30</field>
+    <field name="parent_ssi">aspace_ref11_o09</field>
+    <field name="parent_ssm">aspace_ref11_o09</field>
+    <field name="parent_unittitles_ssm">Series I: Boxed Files</field>
+    <field name="parent_unittitles_teim">Series I: Boxed Files</field>
+    <field name="ref_ssi">aspace_ref266_foa</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">includes many small groups of photos. Many of these are snapshots from training camps or the European theater. A set of German photographs showing German soldiers in action are stamped &#34;Kaiser&#39;s Official Photographer.&#34; &#34;Jacob&#39;s Collection&#34; is two folders of snapshots showing daily life in New York during the war, including parades and rallies. Many of these photographs are captioned and dated. &#34;Underwood and Underwood&#34; are official news photos. All of the &#34;Caricatures &amp; Cartoons&#34; found here were drawn by Bruce Bairnsfather. &#34;Peace&#34; includes images of the signing of the armistice and the victory parades in New York.</field>
+    <field name="series_si">Series I: Boxed Files &gt;&gt; WARS - WORLD WAR I (1 of 3)</field>
+    <field name="series_sim">Series I: Boxed Files</field>
+    <field name="sort_ii">110</field>
+    <field name="unitdate_ssm">1914-1918</field>
+    <field name="unitdate_teim">1914-1918</field>
+    <field name="unittitle_ssm">WARS - WORLD WAR I (1 of 3)</field>
+    <field name="unittitle_teim">WARS - WORLD WAR I (1 of 3)</field>
+  </doc>
+</add>

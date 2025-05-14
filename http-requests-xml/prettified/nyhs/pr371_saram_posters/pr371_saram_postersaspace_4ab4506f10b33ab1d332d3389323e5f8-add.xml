@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Zora Arum and Larry Weimer</field>
+    <field name="collection_sim">Carole De Saram collection of posters</field>
+    <field name="collection_ssm">Carole De Saram collection of posters</field>
+    <field name="collection_teim">Carole De Saram collection of posters</field>
+    <field name="collection_unitid_ssm">PR 371</field>
+    <field name="collection_unitid_teim">PR 371</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">pr371_saram_posters</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">New Deal Art Golden Anniversary Posters (5)</field>
+    <field name="id">pr371_saram_postersaspace_4ab4506f10b33ab1d332d3389323e5f8</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Folder: Flat File, Folder: 2</field>
+    <field name="location_ssm">Folder: Flat File, Folder: 2</field>
+    <field name="ref_ssi">aspace_4ab4506f10b33ab1d332d3389323e5f8</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Posters feature prints of Lily Furedi&#39;s Subway, LaVerne Nelson Black&#39;s Jicarilla &#34;Apache Fiesta&#34;, Jenne Magafan&#39;s The Windmill, O. Louis Guglielmi&#39;s Martyr Hill, and Ilya Bolotowsky&#39;s In The Barber Shop.</field>
+    <field name="series_si">New Deal Art Golden Anniversary Posters (5)</field>
+    <field name="sort_ii">17</field>
+    <field name="unitdate_inclusive_teim">1988</field>
+    <field name="unitdate_ssm">Inclusive, 1988</field>
+    <field name="unittitle_ssm">New Deal Art Golden Anniversary Posters (5)</field>
+    <field name="unittitle_teim">New Deal Art Golden Anniversary Posters (5)</field>
+  </doc>
+</add>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Joseph Ditta, June 2017</field>
+    <field name="collection_sim">Vincenzo Beltrone collection</field>
+    <field name="collection_ssm">Vincenzo Beltrone collection</field>
+    <field name="collection_teim">Vincenzo Beltrone collection</field>
+    <field name="collection_unitid_ssm">MS 3029</field>
+    <field name="collection_unitid_teim">MS 3029</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">ms3029_vincenzo_beltrone</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">PEGASUS: The Poetry Quarterly.</field>
+    <field name="id">ms3029_vincenzo_beltroneaspace_ref43_s15</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 7, Folder: 2</field>
+    <field name="location_ssm">Box: 7, Folder: 2</field>
+    <field name="parent_ssi">aspace_ref7_k3w</field>
+    <field name="parent_ssm">aspace_ref7_k3w</field>
+    <field name="parent_unittitles_ssm">Series IV. Print matter</field>
+    <field name="parent_unittitles_teim">Series IV. Print matter</field>
+    <field name="ref_ssi">aspace_ref43_s15</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="scopecontent_teim">Five issues of PEGASUS: The Poetry Quarterly (originally called PEGASUS: The Poetry Quarterly of Greenwich Village), which ran from 1952 to 1960.</field>
+    <field name="scopecontent_teim">Kate Fabian Beltrone is listed as financial secretary in the PEGASUS issues from 1953 and 1954. In subsequent issues she is a member of the editorial board.</field>
+    <field name="scopecontent_teim">1. Vol. 2, no. 4 (Fall 1953)
+
+2. Vol. 3, no. 1 (Spring 1954); includes Beltrone&#39;s &#34;Fantasia&#34; and Kate Fabian Beltrone&#39;s &#34;Tranquility.&#34;
+
+3. Issue XII, vol. 3, no. 4 (1955); includes Beltrone&#39;s &#34;The Blue Mask&#34; and Kate Fabian Beltrone&#39;s &#34;Sunlight on a Tear.&#34;
+
+4. Issue XV, vol. 4, no. 3 (1956); includes Beltrone&#39;s &#34;Chanzon Triste&#34; and Kate Fabian Beltrone&#39;s &#34;The Spinning Disc.&#34;
+
+5. Issue XVIII, vol. 5, no. 2 (1958); includes Beltrone&#39;s &#34;Poem to a Dreamer&#34; and Kate Fabian Beltrone&#39;s &#34;Washington Square.&#34;</field>
+    <field name="series_si">Series IV. Print matter &gt;&gt; &lt;em&gt;PEGASUS: The Poetry Quarterly&lt;/em&gt;.</field>
+    <field name="series_sim">Series IV. Print matter</field>
+    <field name="sort_ii">50</field>
+    <field name="unitdate_ssm">1953-1958</field>
+    <field name="unitdate_teim">1953-1958</field>
+    <field name="unittitle_ssm">&lt;em&gt;PEGASUS: The Poetry Quarterly&lt;/em&gt;.</field>
+    <field name="unittitle_teim">PEGASUS: The Poetry Quarterly.</field>
+  </doc>
+</add>
