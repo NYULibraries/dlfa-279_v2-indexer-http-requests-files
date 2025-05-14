@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Finding aid prepared by David O&#39;Neill and Lisa Darms.</field>
+    <field name="collection_sim">New York University Archives Photograph Collection</field>
+    <field name="collection_ssm">New York University Archives Photograph Collection</field>
+    <field name="collection_teim">New York University Archives Photograph Collection</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
+    <field name="component_children_bsi">true</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">photo_00001</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="heading_ssm">Stern School of Business (Undergraduate)</field>
+    <field name="id">photo_00001aspace_0be9f1c545595785be25ba30b959f613</field>
+    <field name="level_sim">series</field>
+    <field name="ref_ssi">aspace_0be9f1c545595785be25ba30b959f613</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="series_si">Stern School of Business (Undergraduate)</field>
+    <field name="sort_ii">2588</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/842299</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/842299</field>
+    <field name="unittitle_ssm">Stern School of Business (Undergraduate)</field>
+    <field name="unittitle_teim">Stern School of Business (Undergraduate)</field>
+  </doc>
+</add>
