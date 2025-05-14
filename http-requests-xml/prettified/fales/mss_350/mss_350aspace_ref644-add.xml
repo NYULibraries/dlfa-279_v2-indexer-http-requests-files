@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Anna Gurton-Wachter</field>
+    <field name="collection_sim">Malcolm Goldstein Papers</field>
+    <field name="collection_ssm">Malcolm Goldstein Papers</field>
+    <field name="collection_teim">Malcolm Goldstein Papers</field>
+    <field name="collection_unitid_ssm">MSS.350</field>
+    <field name="collection_unitid_teim">MSS.350</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_350</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Ensemble Pieces [2 of 3]</field>
+    <field name="id">mss_350aspace_ref644</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 26, Folder: 20</field>
+    <field name="location_ssm">Box: 26, Folder: 20</field>
+    <field name="parent_ssi">aspace_ref620</field>
+    <field name="parent_ssm">aspace_ref619</field>
+    <field name="parent_ssm">aspace_ref620</field>
+    <field name="parent_unittitles_ssm">Series III: Publicity</field>
+    <field name="parent_unittitles_ssm">Subseries A: Reviews</field>
+    <field name="parent_unittitles_teim">Series III: Publicity</field>
+    <field name="parent_unittitles_teim">Subseries A: Reviews</field>
+    <field name="ref_ssi">aspace_ref644</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Ensemble Pieces include:
+&#34;Illuminations...&#34;
+&#34;Tone Roads&#34;
+&#34;Varese&#34;
+&#34;A breaking of vessels, becoming song&#34;
+&#34;Marin&#39;s Song, Illuminated&#34;
+&#34;The Seasons: Vermont&#34;
+&#34;Cascades of the Brook: Bachwasserfall&#34;
+&#34;Fiddling Cow Bells&#34;
+&#34;Horspiel&#34;
+&#34;Of Sky Bright Mushrooms Bursting In My Head&#34;
+&#34;Through Deserts of Time&#34;</field>
+    <field name="series_si">Series III: Publicity &gt;&gt; Subseries A: Reviews &gt;&gt; Ensemble Pieces [2 of 3]</field>
+    <field name="series_sim">Series III: Publicity</field>
+    <field name="series_sim">Subseries A: Reviews</field>
+    <field name="sort_ii">660</field>
+    <field name="unitdate_ssm">[undated]</field>
+    <field name="unitdate_teim">[undated]</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/574602</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/574602</field>
+    <field name="unittitle_ssm">Ensemble Pieces [2 of 3]</field>
+    <field name="unittitle_teim">Ensemble Pieces [2 of 3]</field>
+  </doc>
+</add>

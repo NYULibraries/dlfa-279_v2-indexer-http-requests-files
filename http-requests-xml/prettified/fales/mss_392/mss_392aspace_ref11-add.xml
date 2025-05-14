@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Laura Newsome</field>
+    <field name="collection_sim">Gael Greene Magazine Collection</field>
+    <field name="collection_ssm">Gael Greene Magazine Collection</field>
+    <field name="collection_teim">Gael Greene Magazine Collection</field>
+    <field name="collection_unitid_ssm">MSS.392</field>
+    <field name="collection_unitid_teim">MSS.392</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="ead_ssi">mss_392</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">January 6, 1986 - June 1, 1987</field>
+    <field name="id">mss_392aspace_ref11</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 10</field>
+    <field name="location_ssm">Box: 10</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Magazines</field>
+    <field name="parent_unittitles_teim">Series I: Magazines</field>
+    <field name="ref_ssi">aspace_ref11</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">-1/6/86, NYM, Vol.19, Issue 1.   (Aurora). &#34;Joe Baum Goes for the &#39;Whoosh&#39;.&#34; P.59 (TX-4-826-616) through 12-1-86</field>
+    <field name="scopecontent_teim">-1/20/86, NYM, Vol.19, issue 2  (Harry&#39;s Bar). &#34;Twice in Love With Harry&#39;s.&#34; P.49</field>
+    <field name="scopecontent_teim">-2/17/86, NYM, Vol.19, issue 7   (Buona Tavola). &#34;A FIne Madness.&#34;   (2) P.122-123</field>
+    <field name="scopecontent_teim">-2/24/86, NYM, Vol 19, issue 8 (Le Bernardin) &#34;Le Bernardin Beguiles our Crocodile.&#34; P.72</field>
+    <field name="scopecontent_teim">-3/17/86, NYM Vol 19, issue 11  (Hasaki). &#34;My Pet Jackfish.&#34; P.81</field>
+    <field name="scopecontent_teim">-4/14/86, NYM, Vol 19, issue 15   (Palio). &#34;Galloping Consumption.&#34; P.96</field>
+    <field name="scopecontent_teim">-5/26/86.NYM, Vol 19, issue 21  (Caffe Roma). &#34;Torrid Zone.&#34; P.72</field>
+    <field name="scopecontent_teim">-6/16/86, NYM, Vol.19, issue 24  (Canyon Ranch) &#34;Gael Takes it Off: Calorie Counting at Canyon Ranch.&#34; P.48-50</field>
+    <field name="scopecontent_teim">-7/14/86., NYM, Vol 19, issue 27  (Chez Louis, Hulot&#39;s, La Boheme, Chapiteau, Sel &amp; Poivre, Tapis Rouge). &#34;Beaucoup de Bistros.&#34; P.44</field>
+    <field name="scopecontent_teim">-12/1/86.  (Shun Lee Cafe, Sign of the Dove, Blake&#39;s Grill, Silverbird, Fandango, Lafayette). &#34;Cruising.&#34; P. 104</field>
+    <field name="scopecontent_teim">-12/22-29/86, NYM, Vol.19, issue, &#34;The Power that will be:Food: Gilbert Le Coze&#34; .76</field>
+    <field name="scopecontent_teim">-1/5/87, NYM, Vol, 20, issue 1  Ask Gael  (Gotham Bar and Grill, Le Bernardin, Arizona 206, Le Cirque, Sandro, Felidia, Primavera, Barbetta&#39;s, Il Mulino, Barocco, La Tulipe, HSF, Silver Palace, Maxwell&#39;s Plum, Tavern on the Greene, Pig Heaven, Serendipity 3, Soho Kitchen and Bar, American Festival Cafe, Chez Louis, Sparks, Palm, Hard Rock Cafe, Grotta Azzurra, Auntie Yuan, Edwardian Room, Cafe des Artistes, Adam Rib, Takesushi, Mitsukoshi, Hasaki, Sushizen, Ballroom, Lutece, Sylvia, John Clancy, Janice&#39;s, Fish Place, Oyster Bar, Bravo Gianni, Contrapunto, Georgine Carmella, Trastevere, Trastevere 84, Jams, Cote Basque, Windows on the world, America, Palio, Elaine&#39;s, Peter Luger, 4Seasons, Batons, Ciaobella, Le Perigord, Maurice, Georgine Carmella, Il Cortile, Fiorello&#39;s, Fiorella&#39;s, John&#39;s, La Boheme,  Freddy and Pepe&#39;s, Famous Sammy&#39;s Roumanian Steakhouse, Maurice, Marie-Michelle, Nathan&#39;s Famous, Carnegie Deli, Carolina, Nells, Quatorze, TJ Tucker, Indochine, Mezzaluna, Jim McMullen, Mary Lou&#39;s, Sam&#39;s, Canastel&#39;s, Acme, Cafe Sphinx, Ecco, Key Cafe, Madam Rosa&#39;s, Mortimer&#39;s, River Cafe, Brive, Ermina, Wylie&#39;s, Bobby Rubino&#39;s, Fine and Schapiro, Second Ave Kosher Deli, Texarkana, Petrossian, Cafe Marimba, Benito I, Rao&#39;s, Provence, Tablita, Shun Lee, CAfe Luxembourg, Bud&#39;s, Odeon, Montrachet, Greene Street. Chanterelle (cover story). (TX-4-713-811) through 12-28-87 (2 copies)</field>
+    <field name="scopecontent_teim">-1/12/87, NYM, Vol.20, issue 2 (Cityside: Citymeals). &#34;Old Friends.&#34; P.10  </field>
+    <field name="scopecontent_teim">-1/26/87, NYM, Vol 20, issue 4  (Provence, Barocco). &#34;A Couple of Swells.&#34; P.60 </field>
+    <field name="scopecontent_teim">-3/9/87, NYM, Vol 20, issue 10  (Safari Grill, Border Café, Cinco de Mayo, Buds) &#34;Four for the Money.&#34; P.102-105  </field>
+    <field name="scopecontent_teim">-3/23/87, NYM, Vol 20, issue 12  (Le Cirque, Le Regence, Le Chantilly, Le Festival). &#34;The French Evolution.&#34; P.50-55  (2 copies)</field>
+    <field name="scopecontent_teim">-4/27/87, NYM Vol 20 , issue 17  (Albero d&#39;Oro, The Cafe at Arizona 206). &#34;Branching Out.&#34; P.130-132  </field>
+    <field name="scopecontent_teim">-5/11/87, NYM, Vol 20, issue 19,  (Restaurant Sofi). &#34;Sofi&#39;s Choice.&#34; p. 80</field>
+    <field name="scopecontent_teim">-6/1/87, NYM, Vol 20, issue 22  (&#39;21&#39;) &#34;Adding Up the New &#39;21&#39;.&#34; P.40-47  
+ </field>
+    <field name="series_si">Series I: Magazines &gt;&gt; January 6, 1986 - June 1, 1987</field>
+    <field name="series_sim">Series I: Magazines</field>
+    <field name="sort_ii">11</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_inclusive_teim">1986-1987</field>
+    <field name="unitdate_normal_sim">1986/1987</field>
+    <field name="unitdate_normal_ssm">1986/1987</field>
+    <field name="unitdate_normal_teim">1986/1987</field>
+    <field name="unitdate_ssm">Inclusive, 1986-1987</field>
+    <field name="unitdate_start_si">1986</field>
+    <field name="unitdate_start_sim">1986</field>
+    <field name="unitdate_start_ssm">1986</field>
+    <field name="unittitle_ssm">January 6, 1986 - June 1, 1987</field>
+    <field name="unittitle_teim">January 6, 1986 - June 1, 1987</field>
+  </doc>
+</add>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Zachary Dabbs, YZ Chin, Zoë Eckman, John M. Sapp, Timothy M. Woitas, and Benjamin P. Peeples. Finding Aid edited by Rhyannon J. Rodriguez, Brent Phillips.</field>
+    <field name="collection_sim">Gay Cable Network Archives</field>
+    <field name="collection_ssm">Gay Cable Network Archives</field>
+    <field name="collection_teim">Gay Cable Network Archives</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
+    <field name="collection_unitid_teim">MSS.231</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 40 [2]--The Right Stuff 
+[Air Date: 10/28/1986] [3]--Dr. Farkle: October 1986</field>
+    <field name="dao_teim">[1]--Pride and Progress, Episode No. 40 [2]--The Right Stuff 
+[Air Date: 10/28/1986] [3]--Dr. Farkle: October 1986</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_231</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 40 [2]--The Right Stuff 
+[Air Date: 10/28/1986] [3]--Dr. Farkle</field>
+    <field name="id">mss_231aspace_ref1662</field>
+    <field name="level_sim">item</field>
+    <field name="location_si">Box: 46, Media: ID: 231.0710</field>
+    <field name="location_ssm">Box: 46, Media: ID: 231.0710</field>
+    <field name="parent_ssi">aspace_ref8504</field>
+    <field name="parent_ssm">aspace_ref107</field>
+    <field name="parent_ssm">aspace_ref8504</field>
+    <field name="parent_unittitles_ssm">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_ssm">1986</field>
+    <field name="parent_unittitles_teim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_teim">1986</field>
+    <field name="phystech_teim">Duration: [1]-00:25:50, [2]-00:31:33</field>
+    <field name="phystech_teim">Original Format: 3/4 in. Umatic</field>
+    <field name="phystech_teim">Program content: Halloween Show</field>
+    <field name="ref_ssi">aspace_ref1662</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">SAN FRANCISCO EDITION OF 231.0709
+
+
+Pride and Progress
+News-highlights:
+1. Atlanta, City Council defeats attempt to repeal a gay rights clause in city&#39;s Bill of Rights
+2. Voting underway to change federal prohibitions on rape to be defined as sexual assault on another person, regardless of sex or age, and including spouse-on-spouse assault
+3. $111,000 from a benefactor&#39;s will to go to Lambda legal defense and education and the Human Rights Fund
+4. California gubernatorial candidate Tom Bradley turns toward the gay vote
+5. Hollywood stars lend their support to a &#34;No on 64&#34; labor rally
+6. Call for public access channel KQED to broadcast more gay-oriented programming
+7. AIDS PSA television spots begin airing on San Francisco CBS affiliate
+8. Virginia Appuzo named by Governor Cuomo as vice-chair of the New York State AIDS Advisory Council
+COMMERCIAL: Shanti Project featuring Mikhail Baryshnikov
+9. Research for an AIDS vaccine estimated at $1.6 billion
+10. Notre Dame University rules against a gay-oriented student committee
+11. US Attorney General encourages AIDS education for elementary school children, with reactions from San Franciscans
+12. Supreme Court petitioned by the Gay Games to their right to use the word &#34;Olympic&#34;
+13. West Hollywood mayoral race is plagued by scandals
+14. Interview with Pat Norman, candidate for Supervisor
+15. Weekly commentary from Sally Gearhart on Measure M and development of downtown San Francisco
+16. News reporter Jane Dornacker dies in helicopter crash during a live broadcast
+17. Closing credits
+
+
+
+
+The Right Stuff:
+1. Announcements
+COMMERCIAL: Shanti Project, featuring Cynthia Harvey
+2. Interview with author and wiccan, Zsuzsanna Budapest
+3. Clips from stage show, &#34;The Nightclub of the Living Dead&#34;
+4. This Week in Gay History with Jeff Bixby
+5. Fundraiser announcement
+6. Movie Reviews, Halloween-themed
+7. Performance by San Francisco&#39;s Gay Men&#39;s Chorus&#39; barbershop quartet
+8. &#34;Ask Dr Farkle&#34; segment about hitting on lesbians
+9. S Diana Bogus reads Edgar Allen Poe&#39;s &#34;The Raven&#34; over the closing credits</field>
+    <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1986 &gt;&gt; [1]--Pride and Progress, Episode No. 40 [2]--The Right Stuff [Air Date: 10/28/1986] [3]--Dr. Farkle</field>
+    <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="series_sim">1986</field>
+    <field name="sort_ii">2701</field>
+    <field name="unitdate_ssm">October 1986</field>
+    <field name="unitdate_teim">October 1986</field>
+    <field name="unitid_ssm">ID: 231.0710</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/529434</field>
+    <field name="unitid_teim">ID: 231.0710</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/529434</field>
+    <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 40 [2]--The Right Stuff [Air Date: 10/28/1986] [3]--Dr. Farkle</field>
+    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 40 [2]--The Right Stuff 
+[Air Date: 10/28/1986] [3]--Dr. Farkle</field>
+  </doc>
+</add>

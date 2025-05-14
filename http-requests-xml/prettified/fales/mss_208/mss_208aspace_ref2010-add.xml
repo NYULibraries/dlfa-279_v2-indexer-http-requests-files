@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
+    <field name="collection_unitid_teim">MSS.208</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">5</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">Coffin, Charles Carleton: [Pittsfield, MA]
+: undated, circa</field>
+    <field name="dao_teim">Coffin, Charles Carleton: [Pittsfield, MA]
+: undated, circa</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Coffin, Charles Carleton: [Pittsfield, MA]
+</field>
+    <field name="id">mss_208aspace_ref2010</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 58, Folder: 18</field>
+    <field name="location_ssm">Box: 58, Folder: 18</field>
+    <field name="parent_ssi">aspace_ref1803</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref1801</field>
+    <field name="parent_ssm">aspace_ref1802</field>
+    <field name="parent_ssm">aspace_ref1803</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="ref_ssi">aspace_ref2010</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">1 Letter with Indentation, 1 Business / Calling / Visting Card</field>
+    <field name="scopecontent_teim">Addressed To: [Professor Eben Norton Horsford]</field>
+    <field name="scopecontent_teim">Sent From: &#34;Charles Carleton Coffin, 81 Dartmouth,&#34; [Pittsfield, MA]</field>
+    <field name="scopecontent_teim">In Reference To: Business / Friendship / Food / Personal / Professional; &#34;My article in Harper &amp; the wheat fields&#34;</field>
+    <field name="scopecontent_teim">2 Pages, Unbound</field>
+    <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
+    <field name="scopecontent_teim">Measurements: 3.5&#34; x 2&#34; - 5&#34; x 8&#34;</field>
+    <field name="scopecontent_teim">Charles Carleton Coffin (July 26, 1823 – March 2, 1896) was an American author, Civil War correspondent, journalist and politician. The Charles Carleton Coffin Papers (1861-1890) are preserved at the New England Historical Genealogical Society in Boston, MA. </field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Coffin, Charles Carleton: [Pittsfield, MA]
+</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_sim">Series A: Eben Norton Horsford</field>
+    <field name="series_sim">Subseries 1: Correspondence</field>
+    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="sort_ii">2564</field>
+    <field name="unitdate_ssm">undated, circa</field>
+    <field name="unitdate_teim">undated, circa</field>
+    <field name="unitid_ssm">cuid1843</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509797</field>
+    <field name="unitid_teim">cuid1843</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509797</field>
+    <field name="unittitle_ssm">Coffin, Charles Carleton: [Pittsfield, MA]
+</field>
+    <field name="unittitle_teim">Coffin, Charles Carleton: [Pittsfield, MA]
+</field>
+  </doc>
+</add>

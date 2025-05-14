@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Item-level description created by Marty Ehrlich. File-level inventory created by Brian Fairley.</field>
+    <field name="collection_sim">Julius Hemphill Papers</field>
+    <field name="collection_ssm">Julius Hemphill Papers</field>
+    <field name="collection_teim">Julius Hemphill Papers</field>
+    <field name="collection_unitid_ssm">MSS.542</field>
+    <field name="collection_unitid_teim">MSS.542</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="ead_ssi">mss_542</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Last Supper at Uncle Tom&#39;s Cabin / The Promised Land: I. The Cabin</field>
+    <field name="id">mss_542aspace_0d0aab1fc781a9b6749cfdfa4691af56</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 4, Folder: 5</field>
+    <field name="location_ssm">Box: 4, Folder: 5</field>
+    <field name="ref_ssi">aspace_0d0aab1fc781a9b6749cfdfa4691af56</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Holograph score for &#34;The Cabin,&#34; the first part of &#34;Last Supper at Uncle Tom&#39;s Cabin / The Promised Land.&#34; This large-scale composition was written for saxophone sextet, with extensive switching by each player. Individual movements include &#34;Cabin Opener&#34;; &#34;Harry&#34;; &#34;Liza - Tearful Farewell&#34;; &#34;George&#34;; &#34;Slave Dance&#34;; &#34;Chloe&#34;; &#34;Tom&#34;; &#34;Men&#39;s Chase / Haley&#39;s Dance&#34;; &#34;Tom&#39;s Goodbye&#34;; &#34;Boat Music&#34;; &#34;Slave&#39;s Walk&#34;; &#34;Lucy&#34;; &#34;St. Clair Family&#34;; &#34;Eva and Tom&#34;; &#34;Dixie Dance&#34;; &#34;Death of Eva&#34;; &#34;Auction&#34;; &#34;Tom&#39;s Whipping&#34;; &#34;Ghosts&#34;; &#34;Retrograde&#34;; &#34;Fanfare for Lincoln.&#34;</field>
+    <field name="series_si">Last Supper at Uncle Tom&#39;s Cabin / The Promised Land: I. The Cabin</field>
+    <field name="sort_ii">206</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_inclusive_teim">1990-1995</field>
+    <field name="unitdate_normal_sim">1990/1995</field>
+    <field name="unitdate_normal_ssm">1990/1995</field>
+    <field name="unitdate_normal_teim">1990/1995</field>
+    <field name="unitdate_ssm">Inclusive, 1990-1995</field>
+    <field name="unitdate_start_si">1990</field>
+    <field name="unitdate_start_sim">1990</field>
+    <field name="unitdate_start_ssm">1990</field>
+    <field name="unitid_ssm">cuid20597</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/799289</field>
+    <field name="unitid_teim">cuid20597</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/799289</field>
+    <field name="unittitle_ssm">Last Supper at Uncle Tom&#39;s Cabin / The Promised Land: I. The Cabin</field>
+    <field name="unittitle_teim">Last Supper at Uncle Tom&#39;s Cabin / The Promised Land: I. The Cabin</field>
+  </doc>
+</add>

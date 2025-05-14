@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Processed by Jonathan Lill, 2005.</field>
+    <field name="collection_sim">Arthur Kopit Papers</field>
+    <field name="collection_ssm">Arthur Kopit Papers</field>
+    <field name="collection_teim">Arthur Kopit Papers</field>
+    <field name="collection_unitid_ssm">MSS.141</field>
+    <field name="collection_unitid_teim">MSS.141</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_141</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Personal Materials Box 12</field>
+    <field name="id">mss_141aspace_ref337</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 120</field>
+    <field name="location_ssm">Box: 120</field>
+    <field name="parent_ssi">aspace_ref314</field>
+    <field name="parent_ssm">aspace_ref314</field>
+    <field name="parent_unittitles_ssm">Series IV: Personal Materials</field>
+    <field name="parent_unittitles_teim">Series IV: Personal Materials</field>
+    <field name="ref_ssi">aspace_ref337</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Personal materials removed from &#34;Miscellaneous&#34; boxes&#34;. Includes letters from letter files marked &#34;to be answered&#34; ca. 1978-1979; materials from a box marked &#34;very important Harvard scripts&#34; and including handwritten script, possibly from &#34;The Questioning of Nick&#34;, handwritten and typescript materials on &#34;The Runway of Life...&#34;, unidentified script drafts possibly from &#34;Sing to Me Through Open Windows&#34;, correspondence and other materials dating throughout the 1960s; the next group of material is random family documents, particularly of Kopit&#39;s children; maps, train schedules and Zagat&#39;s restaurant guide.
+Publications
+Zagat Survey, 1998 New York City Restaurants (Zagat Survey: New York, 1998.
+
+Note: One folder of oversized sheets of handwritten script of unidentified play (&#34;Sing to Me...&#34;?) moved to Flat Box 15. Realia moved to box 117, includes deck of playing cards, rock. matchbox car, painting by Kat Kopit, box of sleeve patches (such as are found on overalls)</field>
+    <field name="series_si">Series IV: Personal Materials &gt;&gt; Personal Materials Box 12</field>
+    <field name="series_sim">Series IV: Personal Materials</field>
+    <field name="sort_ii">128</field>
+    <field name="unitdate_ssm">ca.1950-1963</field>
+    <field name="unitdate_teim">ca.1950-1963</field>
+    <field name="unitid_ssm">31142050719072</field>
+    <field name="unitid_teim">31142050719072</field>
+    <field name="unittitle_ssm">Personal Materials Box 12</field>
+    <field name="unittitle_teim">Personal Materials Box 12</field>
+  </doc>
+</add>

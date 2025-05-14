@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Processed by Jonathan Lill, 2005.</field>
+    <field name="collection_sim">Arthur Kopit Papers</field>
+    <field name="collection_ssm">Arthur Kopit Papers</field>
+    <field name="collection_teim">Arthur Kopit Papers</field>
+    <field name="collection_unitid_ssm">MSS.141</field>
+    <field name="collection_unitid_teim">MSS.141</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_141</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Treasure Island Box 6</field>
+    <field name="id">mss_141aspace_ref182</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 57</field>
+    <field name="location_ssm">Box: 57</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Projects</field>
+    <field name="parent_unittitles_teim">Series I: Projects</field>
+    <field name="ref_ssi">aspace_ref182</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Magazines, pamphlets, audio and video tapes, books, maps and notes.
+Publications
+Eric Oey, ed., Java: Garden of the East (Passport Books: Lincolnwood, Ill., 1991)
+Robert F. Marx, Shipwrecks in the Americas (Dover Publications: New York, 1987)
+----, The Underwater Dig: Introduction to Marine Archaeology (Pisces Books: Houston, 1990)
+Philip S. Olin, Treasure: The Business and Technology (The Printing Division of Mr. Paper: Gainesville, Fla., 1991)
+Robert F. Marx with Jennifer Marx, In Quest of the Great White Gods (Crown Publishers: New York, 1992) Inscribed by the author
+Cathie Drane and Barbara Hall, Culture Shock: Indonesia (Graphic Arts Publishing Company: Portland, Ore., 1993)
+Kal MullerUnderwater Indonesia (Passport Books: Lincolnwood, Ill., 1992)
+Kal Muller, East of Bali: From Lombok to Timor (Passport Books: Lincolnwood, Ill., 1991)
+Video Cassettes
+All tapes are VHS
+&#34;Quest for Gold&#34;
+&#34;Bali&#34;
+&#34;Malaysia&#34;
+&#34;National Geographic: Atocha, Quest for Treasure&#34;
+&#34;Singapore--Part I&#34;
+&#34;Sand and Sea, Treasure of Indian Ocean&#34;
+&#34;The Treasure Experience&#34;
+&#34;Atlantis Research Submersibles
+&#34;The Deep&#34;
+&#34;Peak Performance Buoyancy&#34;
+&#34;Nanking Cargo&#34;
+&#34;Treasure Island Disney 1851&#34;
+&#34;Treasure: What Dreams are Made of...&#34;
+&#34;James Bond underwater sequence&#34;
+&#34;Kopit&#34;
+&#34;Treasure Island w;/ Wallace Beery&#34; 2 tapes
+&#34;Carl Fismer&#39;s Treasure Hunting Made Easy&#34;
+Audio Cassettes
+&#34;Caymans&#34;
+&#34;Key West--Jupiter--Sebastian&#34;
+&#34;? Latter part, end of deep submersible&#34;
+&#34;Treasure Island Tapes #1,2,3&#34; 3 microcassettes in two env.s
+&#34;Dr. Hamilton Tape&#34;
+</field>
+    <field name="series_si">Series I: Projects &gt;&gt; &lt;em&gt;Treasure Island&lt;/em&gt; Box 6</field>
+    <field name="series_sim">Series I: Projects</field>
+    <field name="sort_ii">59</field>
+    <field name="unitid_ssm">31142040619564</field>
+    <field name="unitid_teim">31142040619564</field>
+    <field name="unittitle_ssm">&lt;em&gt;Treasure Island&lt;/em&gt; Box 6</field>
+    <field name="unittitle_teim">Treasure Island Box 6</field>
+  </doc>
+</add>

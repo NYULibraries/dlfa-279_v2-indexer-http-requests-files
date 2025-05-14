@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Laura Newsome</field>
+    <field name="collection_sim">Gael Greene Magazine Collection</field>
+    <field name="collection_ssm">Gael Greene Magazine Collection</field>
+    <field name="collection_teim">Gael Greene Magazine Collection</field>
+    <field name="collection_unitid_ssm">MSS.392</field>
+    <field name="collection_unitid_teim">MSS.392</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_392</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">January 24, 1994 - December 12, 1994</field>
+    <field name="id">mss_392aspace_ref20</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 19</field>
+    <field name="location_ssm">Box: 19</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Magazines</field>
+    <field name="parent_unittitles_teim">Series I: Magazines</field>
+    <field name="ref_ssi">aspace_ref20</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">-1/24/94.  v. 27 # 4 (Christer&#39;s). &#34;The Seventh Salmon.&#34; p. 75-76</field>
+    <field name="scopecontent_teim">-1/31/94. v. 27 # 5 (Les Célèbrités). &#34;The Sweet Smell of Excess.&#34; p. 58-59</field>
+    <field name="scopecontent_teim">-2/7/94. v. 27 # 6 (American Festival Cafe,  Anglers &amp; Writers, Aureole, Baluchis, James Beard Foundation, Bolo, Bouley, Buddha Bar, Christer&#39;s, Cité, Coco Pazzo, Din-Tai-Fone of Taipei, Eastern Seafood Co., Fiorello&#39;s Roman Cafe, Flowers, Fresco, Gotham Bar and Grill, William Greenberg Jr. Desserts,  Home, Iridium, Isabella&#39;s, Jing Fong, John;s Pizzeria, JoJo, Kelley and Ping, Kin Khao, La Goulue, La Palette, Le Chantilly, Le Cirque, Le Colonial, Le Taxi, Lespinasse, mad.61, Main street, March, Matthew&#39;s, MercBar, Mesa grill, Mickey Mantle&#39;s Sports Restaurant, One Fifth Avene, Cafe One Fifth, Osteria al Doge, Park Avalon, Park Avenue Cafe, Picholine, Planet Hollywood, Rainbow Promenade Bar, Rainbow Room, Rainbow &amp; Stars, Red River Grill, Restaurant Daniel, Restaurant Two Two Two, San Domenico, Serendipity, Sfuzzi, Shaliga Thai Cuisine, Shun Lee, Shun Lee Cafe, SoHo Kitchen and Bar, Symphony Cafe, Tavola, Thai Friends Restaurant, Triple Eight Palace, Vince &amp; Eddie&#39;s, Vix Cafe, Vong, Zen Palate). &#34;Ask Gael.&#34; p. 40-53</field>
+    <field name="scopecontent_teim">-2/14/94. v. 27 # 7 (Baluchi&#39;s). &#34;Fire and Rice.&#34; p. 64</field>
+    <field name="scopecontent_teim">-3/14/94. v. 27 # 11 (Kwanzaa, Cafe Beulah, Soul Fixins&#39;, Birdland, Virgil&#39;s, Emily&#39;s, Shark Bar, Mr. Leo, Jezebel, The Pink Tea Cup, Zacki&#39;s, Jamaican Hot Pot,  Sylvia&#39;s, Well&#39;s, Cotton Club). &#34;Soul Food Now.&#34; p. 58-63</field>
+    <field name="scopecontent_teim">-3/21/94. v. 27 # 12 (Patria, Park Avalon). &#34;Pan-Am Games.&#34; p. 68-69</field>
+    <field name="scopecontent_teim">-3/28/94. v. 27 # 13 (Judson Grill).&#34;Razzmatazz on Swing Street.&#34; p. 113-114</field>
+    <field name="scopecontent_teim">-4/11/94. v. 27 # 15 (Cascabel, Alison on Dominick). &#34;Shanks for the Memories.&#34; p. 62-63</field>
+    <field name="scopecontent_teim">-4/18/94. v. 27 # 16 (Martini&#39;s, Mustang Grill). &#34;Blithe Spirits.&#34; p. 111-112</field>
+    <field name="scopecontent_teim">-4/25/94. v. 27 # 17 (River Café).&#34;Of Thyme and the River.&#34; p. 90-91</field>
+    <field name="scopecontent_teim">-5/2/94. v. 27 # 18 (Virgil&#39;s Real Barbeque). Insatiable:  &#34;Amazing Grease.&#34; p. 80</field>
+    <field name="scopecontent_teim">-5/23/94. v. 27 # 21 (Phoenix Garden, Fu&#39;s, Lucky Cheng&#39;s). Insatiable: &#34;Wok of Ages.&#34; P. 78</field>
+    <field name="scopecontent_teim">-5/30/94. v. 27 # 22 (Match). Insatiable: &#34;Match Ado.&#34; p. 66-67</field>
+    <field name="scopecontent_teim">-6/6/94. v. 27 # 23 (Silk, Toast). &#34;Silk Roots.&#34; p. 60-61</field>
+    <field name="scopecontent_teim">-6/20/94. v. 27 # 24 (C.T.). &#34;Cafe un deux Troisgros.&#34; p. 80-81</field>
+    <field name="scopecontent_teim">-7/11/94. v. 27 # 27 (Campagna).  &#34;Ciao Down.&#34; p. 51-52</field>
+    <field name="scopecontent_teim">-7/25/94. v. 27 # 29 (La Mère Poulard, Gauguin, Caviateria Champagna, Caviar bar, China Fun, Shaan, Josie&#39;s, Jerry&#39;s). &#34;Reality Bites.&#34; p. 50, 55-56</field>
+    <field name="scopecontent_teim">-8/22/94. v. 27 # 33 (Privé, Gilbert Le Coze). &#34;The Restaurant The Fell to Earth.&#34; p. 48-49</field>
+    <field name="scopecontent_teim">-9/12/94 v. 27 # 36 (American Renaissance). &#34;Critic&#39;s Choice.&#34; p. 121</field>
+    <field name="scopecontent_teim">-10/3/94. v. 27 #39  (Cub Room, Café Centro).  &#34;Jolly, Stylish Bedlam.&#34; p. </field>
+    <field name="scopecontent_teim">-10/10/94. v. 27 # 40 (Le Bernardin). &#34;Starting Over.&#34; p. 44</field>
+    <field name="scopecontent_teim">-10/17/94. v. 27 # 41 (Monkey Bar). &#34;Bar Time for Bonzo.&#34; p. 99-100</field>
+    <field name="scopecontent_teim">-10/24/94. v. 27 # 42 (Gramercy Tavern). &#34;Hot, but Not Quite Haute.&#34;p. 76-77</field>
+    <field name="scopecontent_teim">-11/14/94. v. 27 # 45 (Spartina).  &#34;The Lamb Shank Redemption.&#34; p. 90-91</field>
+    <field name="scopecontent_teim">-11/28/94. v. 27 # 47 (Shun Lee Palace, Cafe Evergreen). &#34;Beijing There.&#34; p. 90-91</field>
+    <field name="scopecontent_teim">-12/12/94. v. 27 # 49 (Aja) &#34;Lemongrass Roots.&#34; p. 88-89</field>
+    <field name="series_si">Series I: Magazines &gt;&gt; January 24, 1994 - December 12, 1994</field>
+    <field name="series_sim">Series I: Magazines</field>
+    <field name="sort_ii">20</field>
+    <field name="unitdate_ssm">1994</field>
+    <field name="unitdate_teim">1994</field>
+    <field name="unittitle_ssm">January 24, 1994 - December 12, 1994</field>
+    <field name="unittitle_teim">January 24, 1994 - December 12, 1994</field>
+  </doc>
+</add>

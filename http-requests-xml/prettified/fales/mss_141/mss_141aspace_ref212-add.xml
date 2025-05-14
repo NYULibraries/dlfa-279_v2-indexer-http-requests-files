@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Processed by Jonathan Lill, 2005.</field>
+    <field name="collection_sim">Arthur Kopit Papers</field>
+    <field name="collection_ssm">Arthur Kopit Papers</field>
+    <field name="collection_teim">Arthur Kopit Papers</field>
+    <field name="collection_unitid_ssm">MSS.141</field>
+    <field name="collection_unitid_teim">MSS.141</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_141</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Miscellaneous Works Box 3 (Scripts Box 1)</field>
+    <field name="id">mss_141aspace_ref212</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 67</field>
+    <field name="location_ssm">Box: 67</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Projects</field>
+    <field name="parent_unittitles_teim">Series I: Projects</field>
+    <field name="ref_ssi">aspace_ref212</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">&#34;Good Help is Hard to Find&#34; ca. 1980
+&#34;Secrets of the Rich&#34;
+Index cards and notes for &#34;Secrets...&#34;
+&#34;The Questioning of Nick&#34; ca. 1957
+&#34;Fresh Game&#34; multiple copies of film treatment, undated
+&#34;Fresh Game&#34; first typescript parts of novel &#34;fortunately! never finished&#34; undated
+&#34;Oh Dad, Poor Dad....&#34; Jan 9. 1962
+&#34;Oh Dad, Poor Dad...&#34; 1960. &#34;This is the original script without the extensive revisions which went into the Harvard production of January 7, 1960.&#34;
+&#34;oh Dad, Poor Dad...&#34; galleys
+&#34;Chamber Music&#34; undated draft, ca. 1971
+&#34;Chamber Music&#34; French Translation, 1972
+&#34;King of the Heap&#34; Undated original typescript with corrections.
+&#34;Snatch&#34; undated handwritten script.
+
+Box also contains various index cards and notes, some likely from Lesley Garis.
+Notebook of &#34;Lewis and Clark&#34; ideas
+&#34;Animal Hospital&#34; 1986
+&#34;Mhil&#39;daiim&#34; 3/16/1964 and other dates, extensive rough typescript and finished copies
+&#34;What&#39;s Happened to the Thorne&#39;s House&#34; ca. 1972 (in envelope labeled &#34;Landgrove Play&#34;) typescript, revisions, copies, with handwritten production notes.
+</field>
+    <field name="series_si">Series I: Projects &gt;&gt; Miscellaneous Works Box 3 (Scripts Box 1)</field>
+    <field name="series_sim">Series I: Projects</field>
+    <field name="sort_ii">69</field>
+    <field name="unitid_ssm">31142040620083</field>
+    <field name="unitid_teim">31142040620083</field>
+    <field name="unittitle_ssm">Miscellaneous Works Box 3 (Scripts Box 1)</field>
+    <field name="unittitle_teim">Miscellaneous Works Box 3 (Scripts Box 1)</field>
+  </doc>
+</add>

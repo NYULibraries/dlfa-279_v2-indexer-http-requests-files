@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Zachary Dabbs, YZ Chin, Zoë Eckman, John M. Sapp, Timothy M. Woitas, and Benjamin P. Peeples. Finding Aid edited by Rhyannon J. Rodriguez, Brent Phillips.</field>
+    <field name="collection_sim">Gay Cable Network Archives</field>
+    <field name="collection_ssm">Gay Cable Network Archives</field>
+    <field name="collection_teim">Gay Cable Network Archives</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
+    <field name="collection_unitid_teim">MSS.231</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 2 [2]--The Right Stuff 
+[Air Date: 1/6/1987]: January 1987</field>
+    <field name="dao_teim">[1]--Pride and Progress, Episode No. 2 [2]--The Right Stuff 
+[Air Date: 1/6/1987]: January 1987</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_231</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 2 [2]--The Right Stuff 
+[Air Date: 1/6/1987]</field>
+    <field name="id">mss_231aspace_ref1694</field>
+    <field name="level_sim">item</field>
+    <field name="location_si">Box: 46, Media: ID: 231.0720</field>
+    <field name="location_ssm">Box: 46, Media: ID: 231.0720</field>
+    <field name="parent_ssi">aspace_ref8505</field>
+    <field name="parent_ssm">aspace_ref107</field>
+    <field name="parent_ssm">aspace_ref8505</field>
+    <field name="parent_unittitles_ssm">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_ssm">1987</field>
+    <field name="parent_unittitles_teim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_teim">1987</field>
+    <field name="phystech_teim">Duration: 01:00:00
+Original Format: 3/4 in. Umatic</field>
+    <field name="ref_ssi">aspace_ref1694</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Pride and Progress
+News-highlights:
+1. Gay Week in Review, special &#34;looking ahead&#34; discussion, with Andy Humm, Joyce Hunter, and Darrell Yates Rist
+2. Expecting AIDS statistics continuing to rise, especially among heterosexual couples
+3. Expected AIDS funding, or lack there of, from the Reagan administration
+4. Possible cures and vaccines for AIDS
+COMMERCIAL: &#34;First Hand&#34; gay magazine
+5. Condom ads on network television?
+6. Closeted or out attitudes of gay persons in 1987
+7. Funding for lesbian and gay services
+8. Progression or overturning of sodomy laws
+9. March on Washington DC
+10. Guests answer questions, &#34;If you could change one thing for gay people this year, what would it be?&#34; and &#34;Do you think Ronald Reagan is going to be in office at the end of this year?&#34;
+COMMERCIAL: &#34;Gay Year in Review&#34; VHS tape
+11. Andy Humm on letter-writing to politicians
+COMMERCIAL: Stamp Out AIDS featuring Jennifer Bassey
+12. San Francisco organization, Mobilization Against AIDS, plans to launch a national boycott of Delta Airlines for its gay rights violations
+13. Committee of Interns and Residents votes to refuse to hold conventions in states with sodomy laws
+14. Amsterdam, plan to build monument to memory of homosexuals killed by the Nazis in World War II
+15. Georgia, in first ruling since passage of sodomy laws, two men were fined and given community service for committing sodomy
+16. Sacramento, council members tried to overturn the city&#39;s gay rights bill
+17. Boston, Beth Israel Hospital employee fired for not working with AIDS patients, attempts to get unemployment benefits
+18. Sports Report, interview with Ron Keel of the Manhattan Community Athletic Association about getting gay persons involved in activities
+19. Closing credits
+
+
+
+The Right Stuff:
+1. Media Watch with Brandon Judell, Stephen Holden&#39;s NY Times review of comedy act Barb Nelson&#39;s negative stereotypes
+2. Interview with playwright Robert Patrick of &#34;Blue is for Boys,&#34; and actors Allan Gassman and David Gallagher
+COMMERCIAL: &#34;Manscape&#34; gay magazine
+3. Show Bits with George Trahanis, review of &#34;Pageant&#34; the satirical drag show-themed musical
+COMMERCIAL: The Monster
+4. Interview with a furrier from New York&#39;s Zamir Furs about maintenance and type of fur coats for men
+5. Christmas message from GCN San Francisco to GCN New York
+6. And Another Thing... with Brett Siereveld on having pride as a gay person
+COMMERCIAL: Zamir furs
+7. Closing credits over coverage of a bowling event</field>
+    <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1987 &gt;&gt; [1]--Pride and Progress, Episode No. 2 [2]--The Right Stuff [Air Date: 1/6/1987]</field>
+    <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="series_sim">1987</field>
+    <field name="sort_ii">2712</field>
+    <field name="unitdate_ssm">January 1987</field>
+    <field name="unitdate_teim">January 1987</field>
+    <field name="unitid_ssm">ID: 231.0720</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/529445</field>
+    <field name="unitid_teim">ID: 231.0720</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/529445</field>
+    <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 2 [2]--The Right Stuff [Air Date: 1/6/1987]</field>
+    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 2 [2]--The Right Stuff 
+[Air Date: 1/6/1987]</field>
+  </doc>
+</add>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Zachary Dabbs, YZ Chin, Zoë Eckman, John M. Sapp, Timothy M. Woitas, and Benjamin P. Peeples. Finding Aid edited by Rhyannon J. Rodriguez, Brent Phillips.</field>
+    <field name="collection_sim">Gay Cable Network Archives</field>
+    <field name="collection_ssm">Gay Cable Network Archives</field>
+    <field name="collection_teim">Gay Cable Network Archives</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
+    <field name="collection_unitid_teim">MSS.231</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 55 [2]--The Right Stuff, Episode No. 166
+[Air Date: 10/13/1985] [3]--Gay Video 12/2 9:30 and Show Show No. 2 and Tape 2-Not Complete: October 1985</field>
+    <field name="dao_teim">[1]--Pride and Progress, Episode No. 55 [2]--The Right Stuff, Episode No. 166
+[Air Date: 10/13/1985] [3]--Gay Video 12/2 9:30 and Show Show No. 2 and Tape 2-Not Complete: October 1985</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_231</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 55 [2]--The Right Stuff, Episode No. 166
+[Air Date: 10/13/1985] [3]--Gay Video 12/2 9:30 and Show Show No. 2 and Tape 2-Not Complete</field>
+    <field name="id">mss_231aspace_ref1500</field>
+    <field name="level_sim">item</field>
+    <field name="location_si">Box: 42, Media: ID: 231.0654</field>
+    <field name="location_ssm">Box: 42, Media: ID: 231.0654</field>
+    <field name="parent_ssi">aspace_ref8503</field>
+    <field name="parent_ssm">aspace_ref107</field>
+    <field name="parent_ssm">aspace_ref8503</field>
+    <field name="parent_unittitles_ssm">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_ssm">1985</field>
+    <field name="parent_unittitles_teim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_teim">1985</field>
+    <field name="phystech_teim">Duration: 01:00:00
+Original Format: 3/4 in. Umatic</field>
+    <field name="ref_ssi">aspace_ref1500</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Pride and Progress
+News-highlights:
+1. Rock Hudson death and AIDS federal funding
+2. Diane McGrath wants to close all gay sex establishments and start mandatory HTLVIII tests for health and food employees
+3. Jerry Falwell loses court battle, must pay 5,000 dollars to gay activist Jerry Sloan
+4. Two prominent West German public officials come out of the closet
+COMMERCIAL: Orientation &#39;85, funded by The National Gay Task Force
+5. The future of New York&#39;s gay rights bill
+6. Barry Gingell, New York City physician, discusses smuggling illegal AIDS drugs from Mexico
+7. AIDS treatment around the world
+8. Princess Diana fires &#34;confirmed bachelors&#34; due to sexual orientation
+COMMERCIAL: &#34;New York Native&#34; with Quentin Crisp
+9. Sports, includes clip
+10. Healthline: Conversations with GMHC: Ken Wein, psychotherapist, discusses how to cope with AIDS anxiety
+11. Closing credits
+
+
+
+The Right Stuff:
+1. Sybil Bruncheon
+COMMERCIAL: GMHC Healthy Sex Workshops
+2. Sybil Bruncheon reads letters
+COMMERCIAL: Orientation &#39;85, funded by The National Gay Task Force
+3. Sybil Bruncheon closes
+COMMERCIAL: AIDS hotline, New York AIDS Action
+4. Broadway Confidential, includes clip from &#34;Golden Girls&#34;
+5. Current events/media/culture, includes clip from &#34;Hotel&#34;</field>
+    <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 55 [2]--The Right Stuff, Episode No. 166[Air Date: 10/13/1985] [3]--Gay Video 12/2 9:30 and Show Show No. 2 and Tape 2-Not Complete</field>
+    <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="series_sim">1985</field>
+    <field name="sort_ii">2646</field>
+    <field name="unitdate_ssm">October 1985</field>
+    <field name="unitdate_teim">October 1985</field>
+    <field name="unitid_ssm">ID: 231.0654</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/529379</field>
+    <field name="unitid_teim">ID: 231.0654</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/529379</field>
+    <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 55 [2]--The Right Stuff, Episode No. 166[Air Date: 10/13/1985] [3]--Gay Video 12/2 9:30 and Show Show No. 2 and Tape 2-Not Complete</field>
+    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 55 [2]--The Right Stuff, Episode No. 166
+[Air Date: 10/13/1985] [3]--Gay Video 12/2 9:30 and Show Show No. 2 and Tape 2-Not Complete</field>
+  </doc>
+</add>

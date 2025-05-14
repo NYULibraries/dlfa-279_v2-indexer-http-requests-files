@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Laura Newsome</field>
+    <field name="collection_sim">Gael Greene Magazine Collection</field>
+    <field name="collection_ssm">Gael Greene Magazine Collection</field>
+    <field name="collection_teim">Gael Greene Magazine Collection</field>
+    <field name="collection_unitid_ssm">MSS.392</field>
+    <field name="collection_unitid_teim">MSS.392</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="ead_ssi">mss_392</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">June 28, 1993 - January 10, 1994</field>
+    <field name="id">mss_392aspace_ref19</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 18</field>
+    <field name="location_ssm">Box: 18</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Magazines</field>
+    <field name="parent_unittitles_teim">Series I: Magazines</field>
+    <field name="ref_ssi">aspace_ref19</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">-6/28-7/5/93. v. 26 #26 (Baraonda, Sign of the Dove, Arcadia, May We, Jour et Nuit, New World Grill, Coffee Shop, Felix, Isabella&#39;s, Au Cafe, Time Cafe, Stanhope Terrace Cafe). &#34;Street Food. p. 78-106</field>
+    <field name="scopecontent_teim">-7/12/93. v. 26 #27 (East Hampton Point, 95 School Street, Fresno). &#34;Barbarians at the Plate.&#34; p. 47-48</field>
+    <field name="scopecontent_teim">-7/19/93. v. 26 #28 (Main Street, Cafe One Fifth). &#34;The World is My Oyster.&#34; p.46-47</field>
+    <field name="scopecontent_teim">-8/2/93. v. 26 # 30 (Quaglino&#39;s, Le Pont de la Tour, Sea-Shell, Lanesborough Hotel, Daphne&#39;s, The Ivy, The Canteen, Christopher&#39;s, San Lorenzo, Planet Hollywood). &#34;True Brit.&#34;   (2) p. 43-47</field>
+    <field name="scopecontent_teim">-9/13/93 NYM</field>
+    <field name="scopecontent_teim">-9/20/93 v. 26 # 37 (Fiorello&#39;s, La Cité) Seconds p. 62</field>
+    <field name="scopecontent_teim">-9/27/93. v. 26 # 38 (Lutece). &#34;My Dinners with Andre.&#34; p. 62-63</field>
+    <field name="scopecontent_teim">-10/4/93. v. 26 #39 (Sette Moma). &#34;Moma Mia! p. 103</field>
+    <field name="scopecontent_teim">-10/11/93. v. 26 #40 (The Gotham Bar &amp; Grill). &#34;Grill Crazy.&#34; p. 72-74</field>
+    <field name="scopecontent_teim">-10/18/93. v. 26 #41 (Le Taxi, Symphony Cafe). &#34;Yellow Fever.&#34; p. 118-119</field>
+    <field name="scopecontent_teim">-10/25/93. v. 26 #42 (Mad 61).  &#34;Dressing on the Side.&#34; p. 93</field>
+    <field name="scopecontent_teim">-11/8/93. v. 26 #44  (Morton&#39;s of Chicago, Eastern Seafood Company).  &#34;To Sirloin with Love.&#34; p. 72-73</field>
+    <field name="scopecontent_teim">-11/15/93. v. 26 # 45 (Picholine, Harley Davidson Cafe). &#34;Olive and Kicking.&#34; p. 82-83</field>
+    <field name="scopecontent_teim">-11/22/93. v. 26 # 46 (Matthew&#39;s, Demi). &#34;The Gospel According to Matthew&#39;s.&#34; p.68-70</field>
+    <field name="scopecontent_teim">-12/13/93. v. 26 #49 (Fresco). &#34;Penne From Heaven.&#34; p. 78</field>
+    <field name="scopecontent_teim">-12/20-27/93. v. 26 # 50 (VIX Cafe, SushiHatsu, Kurumazushi, Shun Lee Palace, New Hong City, Goody&#39;s, Jerry&#39;s, Union Square Cafe, Mesa Grill, Le Madri, Mad.61, Lespinasse, Matre d&#39;Michael, Tong, Maison du Chocolat, Remi, Alison on Dominick). &#34;The Best of New York&#34; p. 83, 85, 88, 94, 104, 109,112, 117, 120, 126, &amp; 139</field>
+    <field name="scopecontent_teim">-1/3/94. Vol 27 no. 1 (Peter Luger, Morton&#39;s, Sparks, Smith &amp; Wollensky, Palm Restaurant, Cité, Post House, Old Homestead, Pen &amp; Pencil, Post House, Ruth&#39;s Chris, American Festival Cafe, Les Halles, Ben Benson&#39;s, Wally&#39;s and Joseph&#39;s, Pietro&#39;s, Christ Cella, Gallagher&#39;s, Opus II, China Grill, 21, Mesa Grill, Coco Pazzo, Kam Chueh, Isabella&#39;s, Coffee Shop). &#34;Sizzling Steak Wars.&#34;  p. 25-33</field>
+    <field name="scopecontent_teim">-1/10/94. v. 27 # 2 (Bolo). &#34;Oil of Olé.&#34; p. 43</field>
+    <field name="series_si">Series I: Magazines &gt;&gt; June 28, 1993 - January 10, 1994</field>
+    <field name="series_sim">Series I: Magazines</field>
+    <field name="sort_ii">19</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_inclusive_teim">1993-1994</field>
+    <field name="unitdate_normal_sim">1993/1994</field>
+    <field name="unitdate_normal_ssm">1993/1994</field>
+    <field name="unitdate_normal_teim">1993/1994</field>
+    <field name="unitdate_ssm">Inclusive, 1993-1994</field>
+    <field name="unitdate_start_si">1993</field>
+    <field name="unitdate_start_sim">1993</field>
+    <field name="unitdate_start_ssm">1993</field>
+    <field name="unittitle_ssm">June 28, 1993 - January 10, 1994</field>
+    <field name="unittitle_teim">June 28, 1993 - January 10, 1994</field>
+  </doc>
+</add>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Zachary Dabbs, YZ Chin, Zoë Eckman, John M. Sapp, Timothy M. Woitas, and Benjamin P. Peeples. Finding Aid edited by Rhyannon J. Rodriguez, Brent Phillips.</field>
+    <field name="collection_sim">Gay Cable Network Archives</field>
+    <field name="collection_ssm">Gay Cable Network Archives</field>
+    <field name="collection_teim">Gay Cable Network Archives</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
+    <field name="collection_unitid_teim">MSS.231</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 53 [2]--The Right Stuff, Episode No. 170
+[Air Date: 10/1/1985]: October 1985</field>
+    <field name="dao_teim">[1]--Pride and Progress, Episode No. 53 [2]--The Right Stuff, Episode No. 170
+[Air Date: 10/1/1985]: October 1985</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_231</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 53 [2]--The Right Stuff, Episode No. 170
+[Air Date: 10/1/1985]</field>
+    <field name="id">mss_231aspace_ref1494</field>
+    <field name="level_sim">item</field>
+    <field name="location_si">Box: 42, Media: ID: 231.0652</field>
+    <field name="location_ssm">Box: 42, Media: ID: 231.0652</field>
+    <field name="parent_ssi">aspace_ref8503</field>
+    <field name="parent_ssm">aspace_ref107</field>
+    <field name="parent_ssm">aspace_ref8503</field>
+    <field name="parent_unittitles_ssm">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_ssm">1985</field>
+    <field name="parent_unittitles_teim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_teim">1985</field>
+    <field name="phystech_teim">Duration: 01:00:00
+Original Format: 3/4 in. Umatic</field>
+    <field name="ref_ssi">aspace_ref1494</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Pride and Progress
+News-highlights:
+1. Nation&#39;s largest insurance companies try to access HTVLIII test results to determine applicants&#39; insurability
+2. Rhode Island governor signs pro-gay legislation into law
+3. Massachusetts House of Representatives defeats a gay rights bill, AIDS scare
+COMMERCIAL: NGTF Fund for Human Dignity with &#34;Dear Abby&#34; Abigail Van Buren
+4. Racine, Wisconsin nurse loses job because of sexual orientation
+5. Wisconsin QUEST Program starts housing program for low income gay and lesbian senior citizens
+6. Episcopal church speaks out against AIDS anxiety
+7. Federal government approves HPA23 for experimental use in the United States
+8. Californian republican, congressman Robert Dornan speaks out against AIDS anxiety in The House of Representatives
+COMMERCIAL: &#34;New York Native&#34; with Quentin Crisp
+8. Sports, includes clip
+9. Healthline: Conversations with GMHC: Dr. Scott Croxson, Research Fellow, Beth Israel Medical Center, discusses AIDS related conflicts
+10. Closing credits
+
+
+
+The Right Stuff:
+1. Interview with Candido Mendes, Director of Gay Parade Day, includes coverage of parade
+COMMERCIAL: Carnaval in Rio de Janeiro, Islanders&#39; Club
+2. Broadway Confidential, &#34;After Hours,&#34; includes clip
+COMMERCIAL: GMHC Healthy Sex Workshops
+3. Cabaret Beat, includes clip of Bradshaw Smith</field>
+    <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 53 [2]--The Right Stuff, Episode No. 170[Air Date: 10/1/1985]</field>
+    <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="series_sim">1985</field>
+    <field name="sort_ii">2644</field>
+    <field name="unitdate_ssm">October 1985</field>
+    <field name="unitdate_teim">October 1985</field>
+    <field name="unitid_ssm">ID: 231.0652</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/529377</field>
+    <field name="unitid_teim">ID: 231.0652</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/529377</field>
+    <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 53 [2]--The Right Stuff, Episode No. 170[Air Date: 10/1/1985]</field>
+    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 53 [2]--The Right Stuff, Episode No. 170
+[Air Date: 10/1/1985]</field>
+  </doc>
+</add>

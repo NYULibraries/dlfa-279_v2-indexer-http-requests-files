@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Zachary Dabbs, YZ Chin, Zoë Eckman, John M. Sapp, Timothy M. Woitas, and Benjamin P. Peeples. Finding Aid edited by Rhyannon J. Rodriguez, Brent Phillips.</field>
+    <field name="collection_sim">Gay Cable Network Archives</field>
+    <field name="collection_ssm">Gay Cable Network Archives</field>
+    <field name="collection_teim">Gay Cable Network Archives</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
+    <field name="collection_unitid_teim">MSS.231</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 58 [2]--The Right Stuff, Episode No. 169
+[Air Date: 11/5/1985]: November 1985</field>
+    <field name="dao_teim">[1]--Pride and Progress, Episode No. 58 [2]--The Right Stuff, Episode No. 169
+[Air Date: 11/5/1985]: November 1985</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_231</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 58 [2]--The Right Stuff, Episode No. 169
+[Air Date: 11/5/1985]</field>
+    <field name="id">mss_231aspace_ref1509</field>
+    <field name="level_sim">item</field>
+    <field name="location_si">Box: 42, Media: ID: 231.0657</field>
+    <field name="location_ssm">Box: 42, Media: ID: 231.0657</field>
+    <field name="parent_ssi">aspace_ref8503</field>
+    <field name="parent_ssm">aspace_ref107</field>
+    <field name="parent_ssm">aspace_ref8503</field>
+    <field name="parent_unittitles_ssm">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_ssm">1985</field>
+    <field name="parent_unittitles_teim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_teim">1985</field>
+    <field name="phystech_teim">Duration: 01:00:00
+Original Format: 3/4 in. Umatic</field>
+    <field name="ref_ssi">aspace_ref1509</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Pride and Progress
+News-highlights:
+1. The Pentagon&#39;s top doctor orders limited HTLVIII positive test result access, only civilian health officials can request
+2. Thomas Stoddard, Legislative Director of The New York Civil Liberties Union, worries about confidentiality of military personnel HTLVIII test results
+3. New York Governor Cuomo orders New York City bathhouse regulations
+4. Reaction to Governor Cuomo&#39;s bathhouse regulation proposal
+5. New York lobbyists and anti-gay AIDS bills
+6. National Gay Rights Advocates challenge Nevada&#39;s sodomy laws with lawsuit
+6. Texas Human Rights Commission raises funds to fight sodomy statutes
+COMMERCIAL: &#34;New York Native&#34; with Quentin Crisp
+7. Senate proposes federal AIDS budget increase
+8. Integrity, a gay and lesbian Christian organization, plans New York City AIDS memorial
+9. Social security benefits proposal for ARC patients
+10. Meridian, Mississippi police arrest 4 impersonators at local gay bar, 1902 rule prohibits cross-dressing
+COMMERCIAL: Orientation &#39;85, funded by The National Gay Task Force
+11. Sports, includes clip
+12. Healthline: Conversations with GMHC: Dr. Lawrence Mass discusses AIDS emergence and its spread
+13. Closing credits
+
+
+
+The Right Stuff:
+1. Broadway Confidential, discusses Bernadette Peters
+COMMERCIAL: The Monster
+2. Sybil Bruncheon warms up
+COMMERCIAL: AIDS hotline, New York AIDS Action
+3. Sybil Bruncheon reads audience&#39;s questions
+COMMERCIAL: World of Video
+4. Sybil Bruncheon closes</field>
+    <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 58 [2]--The Right Stuff, Episode No. 169[Air Date: 11/5/1985]</field>
+    <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="series_sim">1985</field>
+    <field name="sort_ii">2649</field>
+    <field name="unitdate_ssm">November 1985</field>
+    <field name="unitdate_teim">November 1985</field>
+    <field name="unitid_ssm">ID: 231.0657</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/529382</field>
+    <field name="unitid_teim">ID: 231.0657</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/529382</field>
+    <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 58 [2]--The Right Stuff, Episode No. 169[Air Date: 11/5/1985]</field>
+    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 58 [2]--The Right Stuff, Episode No. 169
+[Air Date: 11/5/1985]</field>
+  </doc>
+</add>

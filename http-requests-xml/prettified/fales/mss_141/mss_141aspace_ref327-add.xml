@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Processed by Jonathan Lill, 2005.</field>
+    <field name="collection_sim">Arthur Kopit Papers</field>
+    <field name="collection_ssm">Arthur Kopit Papers</field>
+    <field name="collection_teim">Arthur Kopit Papers</field>
+    <field name="collection_unitid_ssm">MSS.141</field>
+    <field name="collection_unitid_teim">MSS.141</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_141</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Personal Materials Box 7</field>
+    <field name="id">mss_141aspace_ref327</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 115</field>
+    <field name="location_ssm">Box: 115</field>
+    <field name="parent_ssi">aspace_ref314</field>
+    <field name="parent_ssm">aspace_ref314</field>
+    <field name="parent_unittitles_ssm">Series IV: Personal Materials</field>
+    <field name="parent_unittitles_teim">Series IV: Personal Materials</field>
+    <field name="ref_ssi">aspace_ref327</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">More juvenilia and material from Kopit&#39;s college days including early handwritten and typescript drafts of &#34;Sing to Me Through Open Windows&#34;, &#34;Oh Dad, Poor Dad...&#34;, and &#34;The Death of Houdini&#34;; correspondence to Kopit and to and from his parents George and Maxine Kopit, among them a letter from Edith Adams Kovacs (the comedienne Edie Adams), humorous pencil sketches possibly by Jerome Robbins, a large quantity of photographs, particularly from Kopit&#39;s sojourn in Italy (numerous copies of various sizes of most of them); various travel documents; some correspondence and clippings from 1967 relating to productions; a large amount of congratulatory telegrams upon the 1962 premiere of &#34;Oh Dad, Poor Dad...&#34; including messages from Tennessee Williams, Tallulah Bankhead, Edie Adams, Stephen Sondheim, Hugh Beaumont, Edward Albee, and others. After the files of telegrams, a new set of records begins composed mostly of correspondence. One small group of letters dated ca. 1974 are between Peter Hall, Trevor Nunn and Audrey Wood concerning the production of &#34;Discovery of America&#34;. Thence follows a large group of correspondence ranging from 1981, to 1988 including mailings from the Writer&#39;s Guild and the Dramatists Guild, a fifteen page letter from Kopit to Andrew Lloyd Weber discussing his views on Phantom of the Opera, various personal and casual letters, some correspondence between Kopit and Edward Albee, birthday cards, etc. Finally there is a small group of older correspondence (ca. 1955-1958) at the back of the box mainly of letters between Kopit and his parents during his time at Harvard and a group of &#34;childhood photos-older photos&#34;
+Audio Cassettes
+&#34;Music for &#39;Open Windows&#39;&#34; 1 cassette of casual music composed for regional production, in envelope with letter.</field>
+    <field name="series_si">Series IV: Personal Materials &gt;&gt; Personal Materials Box 7</field>
+    <field name="series_sim">Series IV: Personal Materials</field>
+    <field name="sort_ii">123</field>
+    <field name="unitdate_ssm">ca. 1955-1987</field>
+    <field name="unitdate_teim">ca. 1955-1987</field>
+    <field name="unitid_ssm">31142050719023</field>
+    <field name="unitid_teim">31142050719023</field>
+    <field name="unittitle_ssm">Personal Materials Box 7</field>
+    <field name="unittitle_teim">Personal Materials Box 7</field>
+  </doc>
+</add>

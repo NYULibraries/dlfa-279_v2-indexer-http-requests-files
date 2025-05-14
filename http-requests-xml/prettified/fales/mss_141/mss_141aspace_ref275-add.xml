@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Processed by Jonathan Lill, 2005.</field>
+    <field name="collection_sim">Arthur Kopit Papers</field>
+    <field name="collection_ssm">Arthur Kopit Papers</field>
+    <field name="collection_teim">Arthur Kopit Papers</field>
+    <field name="collection_unitid_ssm">MSS.141</field>
+    <field name="collection_unitid_teim">MSS.141</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_141</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Computer Disks Box 2</field>
+    <field name="id">mss_141aspace_ref275</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 91</field>
+    <field name="location_ssm">Box: 91</field>
+    <field name="parent_ssi">aspace_ref260</field>
+    <field name="parent_ssm">aspace_ref260</field>
+    <field name="parent_unittitles_ssm">Series II: Magazines, Newspapers and Other Media</field>
+    <field name="parent_unittitles_teim">Series II: Magazines, Newspapers and Other Media</field>
+    <field name="ref_ssi">aspace_ref275</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">The following computer media in this box are 5 inch floppy disks with numerous disks grouped in plastic cases. They are listed here by case and number of disks. Indications of original applications and programs are usually noted on the disks with printouts of system information and file structure included in many cases.
+Audio Cassettes
+&#34;Jamaica Kincaid tapes 8/20/90&#34; 2 microcassettes in env.
+Computer Media
+One large plastic filing tray of floppy diskettes containing 48 diskettes with the following material: &#34;CRC by Nashua&#34; (probable application); &#34;Wings&#34;; &#34;Dreamhouse&#34;; &#34;Kopit&#34;; numerous disks of the various Phantom incarnations; &#34;Bone-the-Fish&#34;; &#34;The Poet&#34;; &#34;Peter Maas, &#39;The Legacy&#39;&#34;; &#34;Nirvana&#34;; &#34;The Shroud&#34;; &#34;Till Death Us Do Part&#34;; &#34;Deception&#34;; &#34;Scarlet Pimpernel&#34;; &#34;Correspondence + misc.&#34;; &#34;Discovery of America&#34;; disks labeled &#34;Play Padding&#34; and &#34;Plays #1 Perlroth&#34;; along with two or so disks that are unlabeled or with obliterated labels.
+
+Other containers: 
+&#34;leslie--Backup disks June &#39;92&#34; 4 disks
+Unlabeled box of 3 disks; individual disk labels suggest this and the proceeding box contain personal material of Kopit and his family.
+Unlabeled box of 4 disks, apparently computer applications
+Group of 9 loose disks: &#34;Kat&#34;, &#34;Duras&#34;, &#34;XyWrite III&#34;, Vassar Disk&#34; #s 3 and 5, &#34;B-T-Fish transfer&#34;, &#34;Leslie Kincaid&#34;, &#34;....Alex&#39;s BAS programs&#34;, &#34;delta&#34;
+&#34;Leslie Disks sep &#39;93&#34; 4 disks
+&#34;Leslie&#39;s Novel (the willows)&#34; 10 disks
+&#34;Backup LG novel&#34; 3 disks
+&#34;Amherst&#34; 1 disk
+&#34;LG: Diane Keaton&#34; 1 disk
+&#34;LG: Duras&#34; 1 disk
+&#34;LG: Novel Uncle Wiggily&#34; 1 disk
+Unlabeled box containing &#34;The Shroud&#34; as well as disks of material relating to Leslie, Ben, Alex, and other material. 11 disks
+Unlabelled box containing disks mostly labeled &#34;Kat&#34;, 6 disks
+Unlabeled box containing Leslie Garis work, mainly interviews and materials relating to articles on Joan Didion, Dominick Dunne, Jamaica Kincaid (see also audio tapes in this box), and Calvin Trillin. 17 disks
+&#34;Tricks of the Trade&#34; 9 disks, apparently all applications and utilities
+unlabeled box of LG materials, 7 disks
+&#34;LG backup&#34; 4 disks
+&#34;Alex backup disk&#34; 2 disks
+&#34;Jamaica Kincaid&#34; 1 disk
+&#34;Amdek disks&#34; 10 disks
+&#34;Garis 6/93&#34; 4 disks
+&#34;Inverlochy Castle&#34; 1 disk
+&#34;LG: Susan Cheever&#34; 1 disk
+&#34;Susan Sontag&#34; 1 disk
+
+The following media are 3 inch diskettes:
+&#34;DOS 6 disks and some Leslie backup stuff&#34; 3 disks
+&#34;Novel Part II plus journal&#34; 1 disk
+&#34;Leslie Garis Novel Oct &#39;93&#34; 2 disks
+&#34;Leslie #1 Novel part one&#34; 1 disk
+Group of loose disks: &#34;Kat&#39;s fifth grade work&#34;, &#34;Ben&#39;s 7th grade work&#34;, &#34;Alex-Dartmouth&#34; (2 disks), &#34;Backup of Leslie&#39;s novel&#34;.</field>
+    <field name="series_si">Series II: Magazines, Newspapers and Other Media &gt;&gt; Computer Disks Box 2</field>
+    <field name="series_sim">Series II: Magazines, Newspapers and Other Media</field>
+    <field name="sort_ii">96</field>
+    <field name="unitid_ssm">31142050718785</field>
+    <field name="unitid_teim">31142050718785</field>
+    <field name="unittitle_ssm">Computer Disks Box 2</field>
+    <field name="unittitle_teim">Computer Disks Box 2</field>
+  </doc>
+</add>

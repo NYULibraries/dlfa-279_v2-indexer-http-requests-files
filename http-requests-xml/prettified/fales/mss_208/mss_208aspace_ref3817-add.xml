@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Colin Wells, with the assistance of Liza Harrell-Edge and Noah Gelfand, 2008-2010. Description revised and enhanced by Rhyannon J. Rodriguez  , December 2015</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
+    <field name="collection_unitid_teim">MSS.208</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">4</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">&#34;Mary B&#34; : New York, NY
+: undated</field>
+    <field name="dao_teim">&#34;Mary B&#34; : New York, NY
+: undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;Mary B&#34; : New York, NY
+</field>
+    <field name="id">mss_208aspace_ref3817</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 91, Folder: 16</field>
+    <field name="location_ssm">Box: 91, Folder: 16</field>
+    <field name="parent_ssi">aspace_ref3814</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref3813</field>
+    <field name="parent_ssm">aspace_ref3814</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_ssm">Series B: Mary L&amp;#39;Hommedieu Gardiner Horsford</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Series B: Mary L&amp;#39;Hommedieu Gardiner Horsford</field>
+    <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
+    <field name="ref_ssi">aspace_ref3817</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">5 Letters with Notation</field>
+    <field name="scopecontent_teim">Addressed To: &#34;Miss Mary LH [L&#39;Hommedieu] Gardiner [Horsford], ℅ Mrs. Bright, No. 68 Pearl Street, Albany, NY,&#34; &#34;Albany Female Academy,&#34; [Albany, NY]</field>
+    <field name="scopecontent_teim">Sent From: &#34;Mary B., Stuyvesant,&#34; [New York, NY]</field>
+    <field name="scopecontent_teim">In Reference To: Friendship / Personal / Poetry / Social; &#34;The Wish&#34; Poem</field>
+    <field name="scopecontent_teim">17 Pages, Bound &amp; Unbound</field>
+    <field name="scopecontent_teim">Handwritten in Ink &amp; Pencil </field>
+    <field name="scopecontent_teim">Measurements: 4&#34; x 6.25&#34; - 8&#34; x 10&#34;</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series B: Mary L&#39;Hommedieu Gardiner Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; &#34;Mary B&#34; : New York, NY
+</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_sim">Series B: Mary L&amp;#39;Hommedieu Gardiner Horsford</field>
+    <field name="series_sim">Subseries 1: Correspondence</field>
+    <field name="sort_ii">4240</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="unitid_ssm">cuid3503</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/511472</field>
+    <field name="unitid_teim">cuid3503</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/511472</field>
+    <field name="unittitle_ssm">&#34;Mary B&#34; : New York, NY
+</field>
+    <field name="unittitle_teim">&#34;Mary B&#34; : New York, NY
+</field>
+  </doc>
+</add>

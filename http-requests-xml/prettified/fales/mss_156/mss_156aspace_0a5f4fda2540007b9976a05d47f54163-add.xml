@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Jessica Shimmin, 2005-2006; media processed by Brent Phillips, 2006; media description input by Joseph Gallucci, 2006, Luke Martin, 2008, Brent Phillips, 2008, 2010.</field>
+    <field name="collection_sim">Andrea Callard Papers</field>
+    <field name="collection_ssm">Andrea Callard Papers</field>
+    <field name="collection_teim">Andrea Callard Papers</field>
+    <field name="collection_unitid_ssm">MSS.156</field>
+    <field name="collection_unitid_teim">MSS.156</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_156</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">11 Thru 12</field>
+    <field name="id">mss_156aspace_0a5f4fda2540007b9976a05d47f54163</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: Shared Fales PM 8, case: 156.0157</field>
+    <field name="location_ssm">Box: Shared Fales PM 8, case: 156.0157</field>
+    <field name="parent_ssi">aspace_1e7e1148550db5f422886c4d131fd60e</field>
+    <field name="parent_ssm">aspace_ref905</field>
+    <field name="parent_ssm">aspace_1e7e1148550db5f422886c4d131fd60e</field>
+    <field name="parent_unittitles_ssm">Series IX: Video recordings</field>
+    <field name="parent_unittitles_ssm">Subseries B: Submasters - CLOSED</field>
+    <field name="parent_unittitles_teim">Series IX: Video recordings</field>
+    <field name="parent_unittitles_teim">Subseries B: Submasters - CLOSED</field>
+    <field name="ref_ssi">aspace_0a5f4fda2540007b9976a05d47f54163</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="series_si">Series IX: Video recordings &gt;&gt; Subseries B: Submasters - CLOSED &gt;&gt; 11 Thru 12</field>
+    <field name="series_sim">Series IX: Video recordings</field>
+    <field name="series_sim">Subseries B: Submasters - CLOSED</field>
+    <field name="sort_ii">892</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="unitid_ssm">cuid23200</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/736994</field>
+    <field name="unitid_teim">cuid23200</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/736994</field>
+    <field name="unittitle_ssm">11 Thru 12</field>
+    <field name="unittitle_teim">11 Thru 12</field>
+  </doc>
+</add>

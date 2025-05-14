@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Processed by Jonathan Lill, 2005.</field>
+    <field name="collection_sim">Arthur Kopit Papers</field>
+    <field name="collection_ssm">Arthur Kopit Papers</field>
+    <field name="collection_teim">Arthur Kopit Papers</field>
+    <field name="collection_unitid_ssm">MSS.141</field>
+    <field name="collection_unitid_teim">MSS.141</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_141</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Wings Box 2</field>
+    <field name="id">mss_141aspace_ref188</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 59</field>
+    <field name="location_ssm">Box: 59</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Projects</field>
+    <field name="parent_unittitles_teim">Series I: Projects</field>
+    <field name="ref_ssi">aspace_ref188</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Material including drafts of screenplay, correspondence, notebook relating to 1991 production in L.A. or also a Hallmark television version of the play. Contract, notes, correspondence, for 1980 &#34;American Playhouse&#34; television production. Contract for National Theater (Eng.) production, Farrar Strauss publication galleys, layout. News clippings, corrected proofs of Samuel French edition, radio script of Wings for Earplay, as originally commissioned. 1983 screenplay draft, index cards and heavily annotated copy of screenplay.
+Publications
+A.R. Luria, The Working Brain (Basic Books: New York, 1973)
+Micro Cassettes
+&#34;Wings Jacqui Doolittle...conversation at Livero&#39;s Restaurant&#34; 2 tapes in env.
+&#34;Wings conversation with Doolittle 4/28/91&#34; 1 tape in env.
+&#34;Wings Jacqui Doolittle Tape #2&#34; 1 tape in env.
+&#34;Wings 3/92&#34; 1 tape in env.
+&#34;Wings--Friday night April 5th&#34; 1 tape in env.
+&#34;May (O&#39;Neill)
+&#34;no. 2 Bert Leonard&#34;
+&#34;12/5&#34;
+&#34;Secrets at MacDonell&#34;
+ 1 unlabeled tape
+&#34;Jacqui Doolittle&#34;
+Audio Cassettes
+&#34;Jacqui Doolittle Monday March 25, 1991&#34;
+&#34;Jacqui Doolittle on phone March 25, 1991&#34;
+The following tapes were found in a single cigar box
+&#34;Aphasic demo tape&#34;
+tapes labeled #3-7, 9, 10
+empty tape case labeled #2
+&#34;Th. Feigerson and Jacqui Doolittle&#34;
+&#34;Wings at Burke&#34;
+The following tapes were found in a bag
+Wings comments and conversation with Joe Broido, 3 tapes 
+
+Note: 1 folder of oversized material moved to Flat Box 9; 3 folders of oversized material moved to Flat Box 10</field>
+    <field name="series_si">Series I: Projects &gt;&gt; &lt;em&gt;Wings&lt;/em&gt; Box 2</field>
+    <field name="series_sim">Series I: Projects</field>
+    <field name="sort_ii">61</field>
+    <field name="unitdate_ssm">1979-1993</field>
+    <field name="unitdate_teim">1979-1993</field>
+    <field name="unitid_ssm">31142040619580</field>
+    <field name="unitid_teim">31142040619580</field>
+    <field name="unittitle_ssm">&lt;em&gt;Wings&lt;/em&gt; Box 2</field>
+    <field name="unittitle_teim">Wings Box 2</field>
+  </doc>
+</add>

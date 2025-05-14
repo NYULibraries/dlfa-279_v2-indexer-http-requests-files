@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Zachary Dabbs, YZ Chin, Zoë Eckman, John M. Sapp, Timothy M. Woitas, and Benjamin P. Peeples. Finding Aid edited by Rhyannon J. Rodriguez, Brent Phillips.</field>
+    <field name="collection_sim">Gay Cable Network Archives</field>
+    <field name="collection_ssm">Gay Cable Network Archives</field>
+    <field name="collection_teim">Gay Cable Network Archives</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
+    <field name="collection_unitid_teim">MSS.231</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 13 [2]--The Right Stuff, Episode No. 130 
+[Air Date: 12/26/1984]: December 1984</field>
+    <field name="dao_teim">[1]--Pride and Progress, Episode No. 13 [2]--The Right Stuff, Episode No. 130 
+[Air Date: 12/26/1984]: December 1984</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">mss_231</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 13 [2]--The Right Stuff, Episode No. 130 
+[Air Date: 12/26/1984]</field>
+    <field name="id">mss_231aspace_ref1370</field>
+    <field name="level_sim">item</field>
+    <field name="location_si">Box: 39, Media: ID: 231.0612</field>
+    <field name="location_ssm">Box: 39, Media: ID: 231.0612</field>
+    <field name="parent_ssi">aspace_ref8502</field>
+    <field name="parent_ssm">aspace_ref107</field>
+    <field name="parent_ssm">aspace_ref8502</field>
+    <field name="parent_unittitles_ssm">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_ssm">1984</field>
+    <field name="parent_unittitles_teim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="parent_unittitles_teim">1984</field>
+    <field name="phystech_teim">Duration: 01:00:00
+Original Format: 3/4 in. Umatic</field>
+    <field name="ref_ssi">aspace_ref1370</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="scopecontent_teim">Pride and Progress
+News - highlights:
+1. A recap of some of the major LGBT events of 1984. Clips include:
+2. Original &#34;Stonewallers&#34; at Pride Parade
+3. Bella Abzug speech at Greater Gotham Business Meeting
+COMMERCIAL: &#34;New York Native&#34; with Quentin Crisp
+4. Virginia Apuzzo on LGBT presence at Democratic National Convention
+5. VP candidate Geraldine Ferraro at Democratic National Convention on human rights
+6. Maureen Reagan, daughter of President, interviewed at Republican National Convention
+COMMERCIAL: Carnaval in Rio de Janeiro, Islanders&#39; Club
+7. Mayor Ed Koch at fundraiser for Judge Bill Thom
+8. David Rothenberg campaign speech
+10. Speech by Victor Gotbaum, Director DC 37, AFSCME
+COMMERCIAL: World of Video
+11. [Fairpack], a new political gay action committee
+12. Reports on AIDS in 1984
+COMMERCIAL: Chamberlain and Associates, career service professionals
+13. Report on gays on television in 1984, including Showtime&#39;s cable series &#34;Brothers&#34;
+14. Gay youth
+16. Acquisition of NYC&#39;s LGBT Community Center on West 13th Street
+15. Wrap up of 1984 events
+COMMERCIAL: Disc-o-rama, NY video and music store
+16. Healthline: Conversations with GMHC: Michael Shernoff, Chelsea Psychotherapy, discusses how to deal with friends who have AIDS
+17. Closing credits
+
+
+The Right Stuff:
+1. Performance by the Big Apple Corps Band with the Pink Panther
+COMMERCIAL: &#34;The Gascon,&#34; a novel by John Colin Penford
+2. Gary Dee, female impersonator, on playing Joan Rivers
+COMMERCIAL: Disc-o-rama, NY video and music store
+3. &#34;Home for the Holidays,&#34; benefit at Limelight for AIDS Research Center (ARC), appearances by Whoopi Goldberg, Maurice Hines
+COMMERCIAL: &#34;The Connection,&#34; gay and lesbian newspaper
+4. &#34;Impulse,&#34; Gat TV in Atlanta
+COMMERCIAL: World of Video
+5. Closing Credits</field>
+    <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1984 &gt;&gt; [1]--Pride and Progress, Episode No. 13 [2]--The Right Stuff, Episode No. 130 [Air Date: 12/26/1984]</field>
+    <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+    <field name="series_sim">1984</field>
+    <field name="sort_ii">2603</field>
+    <field name="unitdate_ssm">December 1984</field>
+    <field name="unitdate_teim">December 1984</field>
+    <field name="unitid_ssm">ID: 231.0612</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/529336</field>
+    <field name="unitid_teim">ID: 231.0612</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/529336</field>
+    <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 13 [2]--The Right Stuff, Episode No. 130 [Air Date: 12/26/1984]</field>
+    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 13 [2]--The Right Stuff, Episode No. 130 
+[Air Date: 12/26/1984]</field>
+  </doc>
+</add>
