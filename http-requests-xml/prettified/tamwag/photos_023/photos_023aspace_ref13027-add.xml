@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Erika Gottfried, Mary Allison Farley, Katie Kirwan, Miriam Frank, Penny Kalloo, Tim Donohue, Tylea Richard, Krista Hahn, and Sarah Demott, from 1979-1985; 1989-1991; 2008-2011. Revised by Maureen Callahan to reflect addition of digital objects, May 2014.</field>
+    <field name="collection_sim">United Automobile Workers of America, District 65 Negatives</field>
+    <field name="collection_ssm">United Automobile Workers of America, District 65 Negatives</field>
+    <field name="collection_teim">United Automobile Workers of America, District 65 Negatives</field>
+    <field name="collection_unitid_ssm">PHOTOS.023</field>
+    <field name="collection_unitid_teim">PHOTOS.023</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="creator_sim">Dobbs, Bob</field>
+    <field name="creator_ssm">Dobbs, Bob</field>
+    <field name="creator_teim">Dobbs, Bob</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">photos_023</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Credit Union Campaigns for Liberal Legislation In C.U.</field>
+    <field name="id">photos_023aspace_ref13027</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 15</field>
+    <field name="location_ssm">Box: 15</field>
+    <field name="name_sim">Dobbs, Bob</field>
+    <field name="name_teim">Dobbs, Bob</field>
+    <field name="parent_ssi">aspace_ref12844</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref12844</field>
+    <field name="parent_unittitles_ssm">Series I. Negatives</field>
+    <field name="parent_unittitles_ssm">Political Activities</field>
+    <field name="parent_unittitles_teim">Series I. Negatives</field>
+    <field name="parent_unittitles_teim">Political Activities</field>
+    <field name="persname_ssm">Dobbs, Bob</field>
+    <field name="persname_teim">Dobbs, Bob</field>
+    <field name="ref_ssi">aspace_ref13027</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="series_si">Series I. Negatives &gt;&gt; Political Activities &gt;&gt; Credit Union Campaigns for Liberal Legislation In C.U.</field>
+    <field name="series_sim">Series I. Negatives</field>
+    <field name="series_sim">Political Activities</field>
+    <field name="sort_ii">6512</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="unitid_ssm">17469</field>
+    <field name="unitid_teim">17469</field>
+    <field name="unittitle_ssm">Credit Union Campaigns for Liberal Legislation In C.U.</field>
+    <field name="unittitle_teim">Credit Union Campaigns for Liberal Legislation In C.U.</field>
+  </doc>
+</add>
