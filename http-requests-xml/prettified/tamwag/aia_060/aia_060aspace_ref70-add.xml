@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Rebecca Altermatt</field>
+    <field name="collection_sim">Ernie O&#39;Malley Papers</field>
+    <field name="collection_ssm">Ernie O&#39;Malley Papers</field>
+    <field name="collection_teim">Ernie O&#39;Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.060</field>
+    <field name="collection_unitid_teim">AIA.060</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">aia_060</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Poetry: Alphabetical set &#34;C&#34;</field>
+    <field name="id">aia_060aspace_ref70</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 1, Folder: 45</field>
+    <field name="location_ssm">Box: 1, Folder: 45</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series I. Works</field>
+    <field name="parent_unittitles_ssm">Subseries IA. Ernie O&amp;#39;Malley</field>
+    <field name="parent_unittitles_teim">Series I. Works</field>
+    <field name="parent_unittitles_teim">Subseries IA. Ernie O&amp;#39;Malley</field>
+    <field name="ref_ssi">aspace_ref70</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="series_si">Series I. Works &gt;&gt; Subseries IA. Ernie O&#39;Malley &gt;&gt; Poetry: Alphabetical set &#34;C&#34;</field>
+    <field name="series_sim">Series I. Works</field>
+    <field name="series_sim">Subseries IA. Ernie O&amp;#39;Malley</field>
+    <field name="sort_ii">76</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/16753</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/16753</field>
+    <field name="unittitle_ssm">Poetry: Alphabetical set &#34;C&#34;</field>
+    <field name="unittitle_teim">Poetry: Alphabetical set &#34;C&#34;</field>
+  </doc>
+</add>
