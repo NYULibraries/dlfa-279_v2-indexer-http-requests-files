@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="collection_sim">Julia Newman &#34;Into the Fire&#34; Research Material</field>
+    <field name="collection_ssm">Julia Newman &#34;Into the Fire&#34; Research Material</field>
+    <field name="collection_teim">Julia Newman &#34;Into the Fire&#34; Research Material</field>
+    <field name="collection_unitid_ssm">ALBA.226</field>
+    <field name="collection_unitid_teim">ALBA.226</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="ead_ssi">alba_226</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Interview: &#34;Women Brig. #1 Ruth Davidow.&#34; 60-minute mini digital video (mini DV).
+</field>
+    <field name="id">alba_226aspace_ref72</field>
+    <field name="level_sim">item</field>
+    <field name="location_si">Box: 2, Item: 226-069 </field>
+    <field name="location_ssm">Box: 2, Item: 226-069 </field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series I: Julia Newman: &amp;#34;Into the Fire&amp;#34; Resources</field>
+    <field name="parent_unittitles_teim">Series I: Julia Newman: &amp;#34;Into the Fire&amp;#34; Resources</field>
+    <field name="ref_ssi">aspace_ref72</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="series_si">Series I: Julia Newman: &#34;Into the Fire&#34; Resources &gt;&gt; Interview: &#34;Women Brig. #1 Ruth Davidow.&#34; 60-minute mini digital video (mini DV).
+</field>
+    <field name="series_sim">Series I: Julia Newman: &amp;#34;Into the Fire&amp;#34; Resources</field>
+    <field name="sort_ii">71</field>
+    <field name="unitdate_end_si">1997</field>
+    <field name="unitdate_end_sim">1997</field>
+    <field name="unitdate_end_ssm">1997</field>
+    <field name="unitdate_inclusive_teim">Feb 23, 1997 </field>
+    <field name="unitdate_normal_sim">1997/1997</field>
+    <field name="unitdate_normal_ssm">1997/1997</field>
+    <field name="unitdate_normal_teim">1997/1997</field>
+    <field name="unitdate_ssm">Inclusive, Feb 23, 1997 </field>
+    <field name="unitdate_start_si">1997</field>
+    <field name="unitdate_start_sim">1997</field>
+    <field name="unitdate_start_ssm">1997</field>
+    <field name="unitid_ssm">cuid33164</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/26948</field>
+    <field name="unitid_teim">cuid33164</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/26948</field>
+    <field name="unittitle_ssm">Interview: &#34;Women Brig. #1 Ruth Davidow.&#34; 60-minute mini digital video (mini DV).
+</field>
+    <field name="unittitle_teim">Interview: &#34;Women Brig. #1 Ruth Davidow.&#34; 60-minute mini digital video (mini DV).
+</field>
+  </doc>
+</add>
