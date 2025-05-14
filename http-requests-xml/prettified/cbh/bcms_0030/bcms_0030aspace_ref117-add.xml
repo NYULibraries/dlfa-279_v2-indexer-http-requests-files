@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Ben Gocker, Librarian and revised by Diana Bowers-Smith, Archivist</field>
+    <field name="collection_sim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0030</field>
+    <field name="collection_unitid_teim">BCMS.0030</field>
+    <field name="component_children_bsi">true</field>
+    <field name="component_level_isim">1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">bcms_0030</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="heading_ssm">Saint Augustine&#39;s High School</field>
+    <field name="id">bcms_0030aspace_ref117</field>
+    <field name="level_sim">series</field>
+    <field name="ref_ssi">aspace_ref117</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="series_si">Saint Augustine&#39;s High School</field>
+    <field name="sort_ii">81</field>
+    <field name="unittitle_ssm">Saint Augustine&#39;s High School</field>
+    <field name="unittitle_teim">Saint Augustine&#39;s High School</field>
+  </doc>
+</add>
