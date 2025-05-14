@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Peter Meyer Filardo and Aniko Szucs, 2006</field>
+    <field name="collection_sim">James E. Jackson and Esther Cooper Jackson Papers</field>
+    <field name="collection_ssm">James E. Jackson and Esther Cooper Jackson Papers</field>
+    <field name="collection_teim">James E. Jackson and Esther Cooper Jackson Papers</field>
+    <field name="collection_unitid_ssm">TAM.347</field>
+    <field name="collection_unitid_teim">TAM.347</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">3</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="ead_ssi">tam_347</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">&#34;Black Liberation and the Socialist Perspective&#34; (Political Affairs, Vol. LIX, No. 4); &#34;From Contributions by Conference Participants&#34; (Socialism: Theory and Practice, Novosti Press Agency); &#34;Kampuchea: Resurrection of a Nation&#34; Political Affairs, Vol. LIX, No. 7); &#34;The Eternal Flame of Ho Chi Minh&#34; Political Affairs, Vol. LIX, No. 7); &#34;Leninism - Marxism&#39;s Universal Teaching&#34; Political Affairs, Vol. LIX, No. 6); &#34;October&#39;s Child is Humanity&#39;s Champion&#34; Political Affairs, Vol. LIX, No. 11); &#34;The Working Class: Hub of the Nationalities Wheel&#34; (Political Affairs, Vol. LIX, No. 2)</field>
+    <field name="id">tam_347aspace_ref757</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 17, Folder: 11</field>
+    <field name="location_ssm">Box: 17, Folder: 11</field>
+    <field name="parent_ssi">aspace_ref721</field>
+    <field name="parent_ssm">aspace_ref503</field>
+    <field name="parent_ssm">aspace_ref721</field>
+    <field name="parent_unittitles_ssm">Series XIII: Writings, Published</field>
+    <field name="parent_unittitles_ssm">Subseries XIV:A: Articles</field>
+    <field name="parent_unittitles_teim">Series XIII: Writings, Published</field>
+    <field name="parent_unittitles_teim">Subseries XIV:A: Articles</field>
+    <field name="ref_ssi">aspace_ref757</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="series_si">Series XIII: Writings, Published &gt;&gt; Subseries XIV:A: Articles &gt;&gt; &#34;Black Liberation and the Socialist Perspective&#34; (&lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 4); &#34;From Contributions by Conference Participants&#34; (&lt;em&gt;Socialism: Theory and Practice&lt;/em&gt;, Novosti Press Agency); &#34;Kampuchea: Resurrection of a Nation&#34; &lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 7); &#34;The Eternal Flame of Ho Chi Minh&#34; &lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 7); &#34;Leninism - Marxism&#39;s Universal Teaching&#34; &lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 6); &#34;October&#39;s Child is Humanity&#39;s Champion&#34; &lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 11); &#34;The Working Class: Hub of the Nationalities Wheel&#34; (&lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 2)</field>
+    <field name="series_sim">Series XIII: Writings, Published</field>
+    <field name="series_sim">Subseries XIV:A: Articles</field>
+    <field name="sort_ii">933</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_inclusive_teim">1980</field>
+    <field name="unitdate_normal_sim">1980/1980</field>
+    <field name="unitdate_normal_ssm">1980/1980</field>
+    <field name="unitdate_normal_teim">1980/1980</field>
+    <field name="unitdate_ssm">Inclusive, 1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/225787</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/225787</field>
+    <field name="unittitle_ssm">&#34;Black Liberation and the Socialist Perspective&#34; (&lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 4); &#34;From Contributions by Conference Participants&#34; (&lt;em&gt;Socialism: Theory and Practice&lt;/em&gt;, Novosti Press Agency); &#34;Kampuchea: Resurrection of a Nation&#34; &lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 7); &#34;The Eternal Flame of Ho Chi Minh&#34; &lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 7); &#34;Leninism - Marxism&#39;s Universal Teaching&#34; &lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 6); &#34;October&#39;s Child is Humanity&#39;s Champion&#34; &lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 11); &#34;The Working Class: Hub of the Nationalities Wheel&#34; (&lt;em&gt;Political Affairs&lt;/em&gt;, Vol. LIX, No. 2)</field>
+    <field name="unittitle_teim">&#34;Black Liberation and the Socialist Perspective&#34; (Political Affairs, Vol. LIX, No. 4); &#34;From Contributions by Conference Participants&#34; (Socialism: Theory and Practice, Novosti Press Agency); &#34;Kampuchea: Resurrection of a Nation&#34; Political Affairs, Vol. LIX, No. 7); &#34;The Eternal Flame of Ho Chi Minh&#34; Political Affairs, Vol. LIX, No. 7); &#34;Leninism - Marxism&#39;s Universal Teaching&#34; Political Affairs, Vol. LIX, No. 6); &#34;October&#39;s Child is Humanity&#39;s Champion&#34; Political Affairs, Vol. LIX, No. 11); &#34;The Working Class: Hub of the Nationalities Wheel&#34; (Political Affairs, Vol. LIX, No. 2)</field>
+  </doc>
+</add>

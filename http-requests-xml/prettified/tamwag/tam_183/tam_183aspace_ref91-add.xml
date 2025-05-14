@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Peter Filardo, 2011. Addition of Series IV in 2011. 2013 Accession added by Heather Mulliner in October 2013.  Edited by Bonnie Gordon to reflect the incorporation of nonprint materials, 2013. Addition of Series VI in 2019 by Jasmine Sykes-Kunk.</field>
+    <field name="collection_sim">New Jewish Agenda Records</field>
+    <field name="collection_ssm">New Jewish Agenda Records</field>
+    <field name="collection_teim">New Jewish Agenda Records</field>
+    <field name="collection_unitid_ssm">TAM.183</field>
+    <field name="collection_unitid_teim">TAM.183</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">tam_183</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Irene Fertik, Photographer: Prints: 9 black and white photographs
+</field>
+    <field name="id">tam_183aspace_ref91</field>
+    <field name="level_sim">file</field>
+    <field name="location_si">Box: 42, Folder: 20</field>
+    <field name="location_ssm">Box: 42, Folder: 20</field>
+    <field name="parent_ssi">aspace_ref70</field>
+    <field name="parent_ssm">aspace_ref70</field>
+    <field name="parent_unittitles_ssm">Series V: Photographs</field>
+    <field name="parent_unittitles_teim">Series V: Photographs</field>
+    <field name="ref_ssi">aspace_ref91</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="series_si">Series V: Photographs &gt;&gt; Irene Fertik, Photographer: Prints: 9 black and white photographs
+</field>
+    <field name="series_sim">Series V: Photographs</field>
+    <field name="sort_ii">67</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/201381</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/201381</field>
+    <field name="unittitle_ssm">Irene Fertik, Photographer: Prints: 9 black and white photographs
+</field>
+    <field name="unittitle_teim">Irene Fertik, Photographer: Prints: 9 black and white photographs
+</field>
+  </doc>
+</add>

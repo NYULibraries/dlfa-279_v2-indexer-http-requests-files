@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Tamiment Library Staff</field>
+    <field name="collection_sim">American Labor Conference on International Affairs Records</field>
+    <field name="collection_ssm">American Labor Conference on International Affairs Records</field>
+    <field name="collection_teim">American Labor Conference on International Affairs Records</field>
+    <field name="collection_unitid_ssm">TAM.038</field>
+    <field name="collection_unitid_teim">TAM.038</field>
+    <field name="component_children_bsi">false</field>
+    <field name="component_level_isim">2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="ead_ssi">tam_038</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="heading_ssm">Halasi, Albert, Manuscripts 
+Contains: 
+ - Halasi, Albert, &#34;Bretton Woods and Full Employment,&#34; January 1945. ll pp. (2 copies) 
+ - Halasi, Albert, &#34;Comments on the Revised White Plan,&#34; nd. l5pp. (2 copies) 
+ - Halasi, Albert, &#34;Comments on Three Memoranda on the Postwar Tax System,&#34; nd. l5pp. (3 copies) 
+ - Halasi, Albert, &#34;The Contribution of the Bretton Woods Agreements to Full Employment,&#34; nd. 33pp. 
+ - Halasi, Albert, &#34;A Common Program for Business and Labor,&#34; nd. 23pp. (2 copies) 
+ - Halasi, Albert, &#34;Note on the Subsistence of the German People After the War,&#34; February 1945. 5pp. 
+ - Halasi, Albert, &#34;Should Germany Be Deprived of Her Industry? Comments on the Baruch Report,&#34; nd. l3pp. 
+ - &#34;Papers drafted for research use by ALCIA officials&#34;</field>
+    <field name="id">tam_038aspace_ref397</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="location_si">Box: 23, Folder: 4</field>
+    <field name="location_ssm">Box: 23, Folder: 4</field>
+    <field name="parent_ssi">aspace_ref252</field>
+    <field name="parent_ssm">aspace_ref252</field>
+    <field name="parent_unittitles_ssm">Series II. Office Files, 1940-1947, nd</field>
+    <field name="parent_unittitles_teim">Series II. Office Files, 1940-1947, nd</field>
+    <field name="ref_ssi">aspace_ref397</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="series_si">Series II. Office Files, 1940-1947, nd &gt;&gt; Halasi, Albert, Manuscripts Contains:  - Halasi, Albert, &#34;Bretton Woods and Full Employment,&#34; January 1945. ll pp. (2 copies)  - Halasi, Albert, &#34;Comments on the Revised White Plan,&#34; nd. l5pp. (2 copies)  - Halasi, Albert, &#34;Comments on Three Memoranda on the Postwar Tax System,&#34; nd. l5pp. (3 copies)  - Halasi, Albert, &#34;The Contribution of the Bretton Woods Agreements to Full Employment,&#34; nd. 33pp.  - Halasi, Albert, &#34;A Common Program for Business and Labor,&#34; nd. 23pp. (2 copies)  - Halasi, Albert, &#34;Note on the Subsistence of the German People After the War,&#34; February 1945. 5pp.  - Halasi, Albert, &#34;Should Germany Be Deprived of Her Industry? Comments on the Baruch Report,&#34; nd. l3pp.  - &#34;Papers drafted for research use by ALCIA officials&#34;</field>
+    <field name="series_sim">Series II. Office Files, 1940-1947, nd</field>
+    <field name="sort_ii">218</field>
+    <field name="unitdate_ssm">Jan 1945-Feb 1945</field>
+    <field name="unitdate_teim">Jan 1945-Feb 1945</field>
+    <field name="unittitle_ssm">Halasi, Albert, Manuscripts Contains:  - Halasi, Albert, &#34;Bretton Woods and Full Employment,&#34; January 1945. ll pp. (2 copies)  - Halasi, Albert, &#34;Comments on the Revised White Plan,&#34; nd. l5pp. (2 copies)  - Halasi, Albert, &#34;Comments on Three Memoranda on the Postwar Tax System,&#34; nd. l5pp. (3 copies)  - Halasi, Albert, &#34;The Contribution of the Bretton Woods Agreements to Full Employment,&#34; nd. 33pp.  - Halasi, Albert, &#34;A Common Program for Business and Labor,&#34; nd. 23pp. (2 copies)  - Halasi, Albert, &#34;Note on the Subsistence of the German People After the War,&#34; February 1945. 5pp.  - Halasi, Albert, &#34;Should Germany Be Deprived of Her Industry? Comments on the Baruch Report,&#34; nd. l3pp.  - &#34;Papers drafted for research use by ALCIA officials&#34;</field>
+    <field name="unittitle_teim">Halasi, Albert, Manuscripts 
+Contains: 
+ - Halasi, Albert, &#34;Bretton Woods and Full Employment,&#34; January 1945. ll pp. (2 copies) 
+ - Halasi, Albert, &#34;Comments on the Revised White Plan,&#34; nd. l5pp. (2 copies) 
+ - Halasi, Albert, &#34;Comments on Three Memoranda on the Postwar Tax System,&#34; nd. l5pp. (3 copies) 
+ - Halasi, Albert, &#34;The Contribution of the Bretton Woods Agreements to Full Employment,&#34; nd. 33pp. 
+ - Halasi, Albert, &#34;A Common Program for Business and Labor,&#34; nd. 23pp. (2 copies) 
+ - Halasi, Albert, &#34;Note on the Subsistence of the German People After the War,&#34; February 1945. 5pp. 
+ - Halasi, Albert, &#34;Should Germany Be Deprived of Her Industry? Comments on the Baruch Report,&#34; nd. l3pp. 
+ - &#34;Papers drafted for research use by ALCIA officials&#34;</field>
+  </doc>
+</add>
