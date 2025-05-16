@@ -35,11 +35,11 @@ Osborne Hollow, NY; Wellesley, MA
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries b: Wellesley College</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries b: Wellesley College</field>
     <field name="ref_ssi">aspace_ref3023</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -51,13 +51,13 @@ Osborne Hollow, NY; Wellesley, MA
     <field name="scopecontent_teim">72 Pages, Bound &amp; Unbound</field>
     <field name="scopecontent_teim">Typed, Printed &amp; Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 3.5&#34; x 4.5&#34; - 5.5&#34; x 8.5&#34; </field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Freeman Palmer, Alice Elvira: East Saginaw, MI;
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries b: Wellesley College &gt;&gt; Freeman Palmer, Alice Elvira: East Saginaw, MI;
 Osborne Hollow, NY; Wellesley, MA
 </field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries b: Wellesley College</field>
     <field name="sort_ii">3443</field>
     <field name="unitdate_end_si">1889</field>
     <field name="unitdate_end_sim">1889</field>

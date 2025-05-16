@@ -29,11 +29,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2051</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -46,11 +46,12 @@
     <field name="scopecontent_teim">Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 5.25&#34; x 8&#34;</field>
     <field name="scopecontent_teim">Historian Nicholas Darnell Davis (1846 - 1915) was born in Grenada, and spent brief periods in Mauritius and Sierra Leone, but his main public career was in British Guiana [Guyana], where he served as Postmaster General (1876-1881), Comptroller of Customs (1881-1895), and Auditor-General (1895-1908). Davis had a life-long interest in the history of the West Indies and more specifically of Barbados; he contributed many historical articles to newspapers and periodicals in British Guiana, Barbados and the United States. The Nicholas Darnell Davis Collection (1752-1915) is preserved at the Royal Commonwealth Society Library, Cambridge University in England. </field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Davis, [Nicholas] Darnell: Dover, England</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Davis, [Nicholas] Darnell: Dover, England</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">2600</field>
     <field name="unitdate_end_si">1887</field>
     <field name="unitdate_end_sim">1887</field>

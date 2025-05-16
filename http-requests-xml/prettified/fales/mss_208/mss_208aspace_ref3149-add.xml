@@ -32,11 +32,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries c: Rumford Chemical Works</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries c: Rumford Chemical Works</field>
     <field name="ref_ssi">aspace_ref3149</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -49,12 +49,12 @@
     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink &amp; Pencil </field>
     <field name="scopecontent_teim">Measurements: 8&#34; x 3&#34; - 5.5&#34; x 8.25&#34;</field>
     <field name="scopecontent_teim">James Brown Herreshoff (1834 – 1930) was an American inventor and chemist. Herreshoff belongs to a notable American family of boat designers, chemists, and inventors. James Brown Herreshoff was born in Bristol, RI, and graduated from Brown University; he passed away died at the age of 96 in Riverdale, NY.</field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Herreshoff, James Brown: [Providence, RI]
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries c: Rumford Chemical Works &gt;&gt; Herreshoff, James Brown: [Providence, RI]
 </field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries c: Rumford Chemical Works</field>
     <field name="sort_ii">3565</field>
     <field name="unitdate_end_si">1880</field>
     <field name="unitdate_end_sim">1880</field>

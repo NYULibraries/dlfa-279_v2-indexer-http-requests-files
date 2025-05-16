@@ -32,11 +32,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2623</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -49,12 +49,13 @@
     <field name="scopecontent_teim">Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 4&#34; x 5.5&#34;</field>
     <field name="scopecontent_teim">John Gorham Palfrey (May 2, 1796 – April 26, 1881) was an American clergyman and historian who served as a U.S. Representative from Massachusetts. As a Unitarian minister, Palfrey played a leading role in the early history of Harvard Divinity School. The Palfrey Family Papers (1713-1915) are preserved at the Houghton Library, Harvard College Library in Cambridge, MA. </field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Palfrey, John Gorham: [Cambridge, MA]
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Palfrey, John Gorham: [Cambridge, MA]
 </field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">3105</field>
     <field name="unitdate_end_si">1881</field>
     <field name="unitdate_end_sim">1881</field>

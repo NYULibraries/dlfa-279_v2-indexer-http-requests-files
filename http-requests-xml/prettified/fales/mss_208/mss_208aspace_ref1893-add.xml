@@ -29,11 +29,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref1893</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -46,11 +46,12 @@
     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink &amp; Pencil</field>
     <field name="scopecontent_teim">Measurements: 8&#34; x 10&#34;</field>
     <field name="scopecontent_teim">James Curtis Booth (July 28, 1810 – March 21, 1888) was an American chemist who was the melter and refiner at the U.S. Mint in Philadelphia for many years. Booth was born in Philadelphia, was educated at the Hartsville Seminary, graduated from the University of Pennsylvania in 1829, and later studied at the Rensselaer Polytechnic Institute in Troy, New York from 1831 to 1832. He visited Germany between 1833 and 1835, spending the year of 1833 in Professor Friedrich Wöhler&#39;s private laboratory in Hesse-Cassel, and then spending nine months in the laboratory of Professor Gustav Magnus in Berlin. He opened a chemistry laboratory in Pennsylvania in 1836 for teaching purposes, and when the demand for teaching and chemical analysis increased, he was assisted by Dr. Martin Hans Boyè until 1845. From 1848, Thomas H. Garrett was his associate, and in 1881 the firm became &#34;Booth, Garrett and Blair.&#34; The James Curtis Booth Papers (1785-1944) are preserved at the Othmer Library of Chemical History, Chemical Heritage Foundation in Philadelphia, PA. </field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Booth, James Curtis: Philadelphia, PA</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Booth, James Curtis: Philadelphia, PA</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">2449</field>
     <field name="unitdate_end_si">1868</field>
     <field name="unitdate_end_sim">1868</field>

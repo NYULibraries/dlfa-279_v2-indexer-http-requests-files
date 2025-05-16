@@ -29,11 +29,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries b: Wellesley College</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries b: Wellesley College</field>
     <field name="ref_ssi">aspace_ref2990</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -46,11 +46,11 @@
     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 4&#34; x 6&#34;</field>
     <field name="scopecontent_teim">Sophonisba Preston Breckinridge (April 1, 1866 – July 30, 1948) was an American activist, Progressive Era social reformer, and social scientist. Breckinridge was active in several causes including but not limited to: African American Civil Rights, Children&#39;s Protection and Labor Laws Reform, Immigration, Pacifism, Progressive Party, and Women&#39;s Suffrage. The Sophonisba Preston Breckinridge Papers (1905-1949) are preserved at the University of Chicago in Chicago, IL, while the Breckinridge Family Papers (1752-1965) are preserved at the Library of Congress in Washington, D.C.</field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Breckinridge, Sophonisba Preston: Ocean Beach, NJ</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries b: Wellesley College &gt;&gt; Breckinridge, Sophonisba Preston: Ocean Beach, NJ</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries b: Wellesley College</field>
     <field name="sort_ii">3411</field>
     <field name="unitdate_end_si">1889</field>
     <field name="unitdate_end_sim">1889</field>

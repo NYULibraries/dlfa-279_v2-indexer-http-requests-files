@@ -32,11 +32,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2511</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -49,12 +49,13 @@
     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 5.75&#34; x 4.5&#34; - 6&#34; x 11&#34;</field>
     <field name="scopecontent_teim">Francis Davis Millet (November 3, 1848 - April 15, 1912) was an American painter, sculptor, and writer who died in the sinking of the R.M.S. Titanic on April 15, 1912. Millet Family Papers are preserved at the Smithsonian Archives of American Art in Washington, D.C.</field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Millet, Francis Davis: Austria; [In Transit / At Sea]; Romania
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Millet, Francis Davis: Austria; [In Transit / At Sea]; Romania
 </field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">3018</field>
     <field name="unitdate_end_si">1879</field>
     <field name="unitdate_end_sim">1879</field>

@@ -33,11 +33,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2272</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -50,13 +50,14 @@
     <field name="scopecontent_teim">Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 4.75&#34; x 6&#34; - 4.5&#34; x 7&#34;</field>
     <field name="scopecontent_teim">Oliver Wendell Holmes, Sr. (August 29, 1809 – October 7, 1894) was an American author, lecturer, medical reformer, physician, poet, and professor. Based in Boston, MA, Holmes was a member of the Fireside Poets. The Book &amp; Print Collection of the Holmes Family, also known as the Oliver Wendell Holmes Library, is preserved at the Library of Congress in Washington, D.C. In addition, Holmes correspondence is available online through Lehigh University&#39;s &#34;I Remain: A Digital Archive of Letters, Manuscripts, and Ephemera.&#34;</field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Holmes, Oliver Wendell: Beverly Farms &amp; Boston, MA
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Holmes, Oliver Wendell: Beverly Farms &amp; Boston, MA
 
 </field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">2809</field>
     <field name="unitdate_end_si">1886</field>
     <field name="unitdate_end_sim">1886</field>

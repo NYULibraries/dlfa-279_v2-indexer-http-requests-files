@@ -29,11 +29,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2066</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -46,11 +46,12 @@
     <field name="scopecontent_teim">Typed, Printed &amp; Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 5&#34; x 3&#34; - 8.5&#34; x 11&#34;</field>
     <field name="scopecontent_teim">Melville (Melvil) Louis Kossuth Dewey (December 10, 1851 – December 26, 1931) was an American educator, librarian, and inventor of the Dewey Decimal System of library classification. The Melvil Dewey Papers (1870-1931) are preserved at the Columbia University Rare Book and Manuscript Library in New York, NY. </field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Dewey, Melville: New York, NY</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Dewey, Melville: New York, NY</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">2614</field>
     <field name="unitdate_end_si">1889</field>
     <field name="unitdate_end_sim">1889</field>

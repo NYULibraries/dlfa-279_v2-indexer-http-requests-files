@@ -29,11 +29,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2269</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -46,11 +46,12 @@
     <field name="scopecontent_teim">Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 4.5&#34; x 7&#34;</field>
     <field name="scopecontent_teim">August Wilhelm von Hofmann (April 8, 1818 – May 5, 1892) was a German chemist. After studying under Justus von Liebig at the University of Giessen, Hofmann became the first director of the Royal College of Chemistry in London in 1845. In 1865, Hofmann returned to Germany to accept a position at the University of Berlin as a teacher and researcher; he also co-founded the German Chemical Society (Deutsche Chemische Gesellschaft) in 1867. In both London and Berlin, Hofmann recreated the style of laboratory instruction established by Liebig at Giessen, fostering a school of chemistry focused on experimental organic chemistry and its industrial applications. Hofmann archival material is preserved at the Imperial College Archives in London, England. </field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; von Hofmann, August Wilhelm: London, England</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; von Hofmann, August Wilhelm: London, England</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">3316</field>
     <field name="unitdate_end_si">1846</field>
     <field name="unitdate_end_sim">1846</field>

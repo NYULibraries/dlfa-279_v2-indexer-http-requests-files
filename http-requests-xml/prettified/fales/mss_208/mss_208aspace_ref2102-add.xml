@@ -29,11 +29,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2102</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -53,11 +53,12 @@ Handwritten in Ink
 Measurements: 7.75&#34; x 10&#34;
 
 James Pollard Espy (the Storm King) (May 9, 1785 – January 24, 1860) was an American meteorologist. Espy developed a convection theory of storms, explaining it in 1836 before the American Philosophical Society and in 1840 before the French Académie des Sciences and the British Royal Society. Espy&#39;s theory was published by in 1840 as The Philosophy of Storms; he became meteorologist to the War (1842) and Navy (1848) departments and developed the use of the telegraph in assembling weather observation data by which he studied the progress of storms and laid the basis for scientific weather forecasting. Espy&#39;s works are available at New York University Libraries via Bobcat.</field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Espy, James [Pollard]: Boston, MA; Washington, DC</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Espy, James [Pollard]: Boston, MA; Washington, DC</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">2649</field>
     <field name="unitdate_end_si">1844</field>
     <field name="unitdate_end_sim">1844</field>

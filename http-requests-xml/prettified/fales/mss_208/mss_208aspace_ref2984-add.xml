@@ -32,11 +32,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries b: Wellesley College</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries b: Wellesley College</field>
     <field name="ref_ssi">aspace_ref2984</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -49,12 +49,12 @@
     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 5&#34; x 8&#34; - 2&#34; x 20&#34;</field>
     <field name="scopecontent_teim">Katharine Lee Bates (August 12, 1859 – March 28, 1929) was an American author, poet and songwriter. Bates is remembered as the author of the words to the anthem &#34;America the Beautiful.&#34; Bates was inducted into the Songwriters Hall of Fame in 1970 and listed as one of the thirty-one LGBT history icons by the organizers of LGBT History Month in 2012. Bates archival material can be found at the Arthur and Elizabeth Schlesinger Library on the History of Women in America, Radcliffe College in Cambridge, MA, Falmouth Historical Society in Falmouth, MA, Houghton Library, Harvard University in Cambridge, MA, and Wellesley College Archives in Wellesley, MA.</field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Bates, Katharine Lee: Wellesley, MA
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries b: Wellesley College &gt;&gt; Bates, Katharine Lee: Wellesley, MA
 </field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries b: Wellesley College</field>
     <field name="sort_ii">3405</field>
     <field name="unitdate_end_si">1887</field>
     <field name="unitdate_end_sim">1887</field>

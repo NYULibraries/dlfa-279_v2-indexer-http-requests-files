@@ -32,11 +32,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2010</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -49,12 +49,13 @@
     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 3.5&#34; x 2&#34; - 5&#34; x 8&#34;</field>
     <field name="scopecontent_teim">Charles Carleton Coffin (July 26, 1823 – March 2, 1896) was an American author, Civil War correspondent, journalist and politician. The Charles Carleton Coffin Papers (1861-1890) are preserved at the New England Historical Genealogical Society in Boston, MA. </field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Coffin, Charles Carleton: [Pittsfield, MA]
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Coffin, Charles Carleton: [Pittsfield, MA]
 </field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">2564</field>
     <field name="unitdate_ssm">undated, circa</field>
     <field name="unitdate_teim">undated, circa</field>

@@ -29,11 +29,11 @@
     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
-    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="ref_ssi">aspace_ref2088</field>
     <field name="repository_sim">fales</field>
     <field name="repository_ssi">fales</field>
@@ -46,11 +46,12 @@
     <field name="scopecontent_teim">Printed &amp; Handwritten in Ink</field>
     <field name="scopecontent_teim">Measurements: 7&#34; x 8&#34; - 8&#34; x 10&#34;</field>
     <field name="scopecontent_teim">Amos Eaton (May 17, 1776 – 10 May 10, 1842) was an American botanist, geologist, and educator. Eaton is considered the founder of the modern scientific prospectus in education, which was a radical departure from the American liberal arts tradition of classics, religion, lecture, and recitation. In 1824, Eaton co-founded the Rensselaer School with Stephen van Rensselaer III. Eaton&#39;s botany teaching laboratory in the 1820s was the first of its kind in the country; his popular lectures and writings inspired numerous thinkers, in particular women, whom he encouraged to attend his public talks on experimental philosophy. The Amos Eaton Papers (1797-1846) are preserved at the New York State Library Manuscripts and Special Collections in Albany, NY. </field>
-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Eaton, Amos: Troy, NY</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Eaton, Amos: Troy, NY</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series A: Eben Norton Horsford</field>
     <field name="series_sim">Subseries 1: Correspondence</field>
-    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+    <field name="series_sim">Subsubseries a: Academic and Family&amp;#xA;</field>
     <field name="sort_ii">2635</field>
     <field name="unitdate_end_si">1838</field>
     <field name="unitdate_end_sim">1838</field>
